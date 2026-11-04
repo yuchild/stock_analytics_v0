@@ -65,11 +65,29 @@ def main():
 
     parser.add_argument("--limit", type=int, default=20)
     parser.add_argument("--delay", type=float, default=2.0)
+    parser.add_argument(
+        "--shuffle",
+        action="store_true",
+        help="Randomize candidate order for broader market coverage.",
+    )
+    parser.add_argument(
+        "--max-consecutive-failures",
+        type=int,
+        default=5,
+        help="Stop after this many consecutive failed requests.",
+    )
 
     args = parser.parse_args()
 
-    if args.limit < 1 or args.delay < 0:
-        parser.error("--limit must be >= 1 and --delay must be >= 0")
+    if (
+        args.limit < 1
+        or args.delay < 0
+        or args.max_consecutive_failures < 1
+    ):
+        parser.error(
+            "--limit and --max-consecutive-failures must be >= 1; "
+            "--delay must be >= 0"
+        )
 
     candidates = pd.read_csv(INPUT, dtype={"symbol": str})
     processed = load_processed_symbols()
@@ -81,7 +99,12 @@ def main():
 
     remaining = candidates[
         ~candidates["symbol"].str.upper().isin(completed)
-    ].head(args.limit)
+    ].copy()
+
+    if args.shuffle:
+        remaining = remaining.sample(frac=1, random_state=42)
+
+    remaining = remaining.head(args.limit)
 
     print(f"Total candidates: {len(candidates):,}")
     print(f"Previously successful: {len(processed):,}")
@@ -89,6 +112,7 @@ def main():
 
     successes = 0
     failures = 0
+    consecutive_failures = 0
 
     for index, symbol in enumerate(remaining["symbol"], start=1):
         print(f"[{index}/{len(remaining)}] {symbol}", flush=True)
@@ -99,6 +123,7 @@ def main():
             append_record(OUTPUT, metadata, METADATA_FIELDS)
 
             successes += 1
+            consecutive_failures = 0
 
             print(
                 f"  SUCCESS: {metadata['sector_name']} | "
@@ -116,6 +141,14 @@ def main():
             )
 
             failures += 1
+            consecutive_failures += 1
+
+            if consecutive_failures >= args.max_consecutive_failures:
+                print(
+                    "\nSTOPPING: Maximum consecutive failures reached. "
+                    "Check Yahoo Finance availability before continuing."
+                )
+                break
             print(f"  FAILED: {exc}")
 
         if index < len(remaining):
