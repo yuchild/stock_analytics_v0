@@ -5,6 +5,7 @@ from stock_analytics.db.connection import get_latest_timestamp
 from stock_analytics.ingestion.yfinance_client import (
     fetch_stock_prices,
     validate_stock_prices,
+    fetch_stock_prices_with_retry,
 )
 from stock_analytics.ingestion.postgres_loader import load_stock_prices
 from stock_analytics.ingestion.ingestion_logger import log_ingestion
@@ -19,10 +20,11 @@ def run_ingestion(symbol: str, interval: str):
     try:
         latest_timestamp = get_latest_timestamp(symbol, interval)
 
-        df = fetch_stock_prices(
+        df = fetch_stock_prices_with_retry(
             symbol,
             interval,
             latest_timestamp=latest_timestamp,
+            max_attempts=3,
         )
         rows_fetched = len(df)
 

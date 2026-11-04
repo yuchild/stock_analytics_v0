@@ -1,6 +1,9 @@
 import pandas as pd
 import yfinance as yf
 
+import time
+import random
+
 
 INTERVAL_PERIODS = {
     "1m": "5d",
@@ -24,32 +27,31 @@ INCREMENTAL_OVERLAP = {
 }
 
 
+
 def get_incremental_start(latest_timestamp, interval: str):
-    """Calculate a safe, calendar-aware download start."""
+    """Calculate a safe incremental start timestamp."""
 
     latest = pd.Timestamp(latest_timestamp)
 
     if latest.tzinfo is None:
         latest = latest.tz_localize("UTC")
 
-    # Yahoo daily, weekly, and monthly bars use
-    # calendar dates rather than intraday timestamps.
-    if interval in ("1d", "1wk", "1mo"):
-        latest_date = latest.tz_convert("UTC").date()
+    latest_utc = latest.tz_convert("UTC")
 
-        if interval == "1d":
-            start_date = latest_date - pd.Timedelta(days=7)
+    if interval == "1d":
+        start_date = latest_utc.date() - pd.Timedelta(days=7)
 
-        elif interval == "1wk":
-            start_date = latest_date - pd.Timedelta(weeks=5)
+    elif interval == "1wk":
+        start_date = latest_utc.date() - pd.Timedelta(weeks=5)
 
-        else:
-            month_start = latest_date.replace(day=1)
-            start_date = month_start - pd.DateOffset(months=3)
+    elif interval == "1mo":
+        month_start = latest_utc.date().replace(day=1)
+        start_date = month_start - pd.DateOffset(months=3)
 
-        return pd.Timestamp(start_date).tz_localize("UTC")
+    else:
+        return latest - INCREMENTAL_OVERLAP[interval]
 
-    return latest - INCREMENTAL_OVERLAP[interval]
+    return pd.Timestamp(start_date).tz_localize("UTC")
 
 
 def fetch_stock_prices(
@@ -118,6 +120,50 @@ def fetch_stock_prices(
     df["interval_code"] = interval
 
     return df
+
+
+def fetch_stock_prices_with_retry(
+    symbol: str,
+    interval: str,
+    latest_timestamp=None,
+    max_attempts: int = 3,
+) -> pd.DataFrame:
+    """Retry transient download failures with exponential backoff."""
+
+    if max_attempts < 1:
+        raise ValueError("max_attempts must be at least 1")
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            df = fetch_stock_prices(
+                symbol,
+                interval,
+                latest_timestamp=latest_timestamp,
+            )
+
+            if df.empty:
+                raise ValueError(
+                    f"Empty response for {symbol} ({interval})"
+                )
+
+            return df
+
+        except Exception as exc:
+            print(
+                f"Attempt {attempt}/{max_attempts} failed "
+                f"for {symbol} {interval}: {exc}"
+            )
+
+            if attempt == max_attempts:
+                raise
+
+            delay = min(2 ** (attempt - 1), 30)
+            delay += random.uniform(0, 0.5)
+
+            print(f"Retrying in {delay:.1f} seconds...")
+            time.sleep(delay)
+
+    raise RuntimeError("Unexpected retry termination")
 
 
 def validate_stock_prices(df: pd.DataFrame) -> pd.DataFrame:
