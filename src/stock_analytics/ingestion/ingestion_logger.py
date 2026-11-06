@@ -12,6 +12,8 @@ def log_ingestion(
     rows_loaded: int,
     status: str,
     error_message: str | None = None,
+    ingestion_mode: str = "incremental",
+    requested_period: str | None = None,
 ):
     query = text("""
         INSERT INTO analytics.ingestion_log (
@@ -22,6 +24,8 @@ def log_ingestion(
             rows_loaded,
             status,
             error_message,
+            ingestion_mode,
+            requested_period,
             started_at,
             finished_at
         )
@@ -33,6 +37,8 @@ def log_ingestion(
             :rows_loaded,
             :status,
             :error_message,
+            :ingestion_mode,
+            :requested_period,
             NOW(),
             NOW()
         )
@@ -49,5 +55,7 @@ def log_ingestion(
                 "rows_loaded": rows_loaded,
                 "status": status,
                 "error_message": error_message,
+                "ingestion_mode": ingestion_mode,
+                "requested_period": requested_period,
             },
         )

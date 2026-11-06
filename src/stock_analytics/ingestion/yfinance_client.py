@@ -10,7 +10,7 @@ INTERVAL_PERIODS = {
     "5m": "1mo",
     "15m": "1mo",
     "1h": "3mo",
-    "1d": "1y",
+    "1d": "10y",
     "1wk": "5y",
     "1mo": "max",
 }
@@ -26,6 +26,10 @@ INCREMENTAL_OVERLAP = {
     "1mo": pd.Timedelta(days=90),
 }
 
+
+def to_yfinance_symbol(symbol: str) -> str:
+    """Convert database symbols to Yahoo Finance ticker format."""
+    return symbol.replace(".", "-")
 
 
 def get_incremental_start(latest_timestamp, interval: str):
@@ -63,7 +67,7 @@ def fetch_stock_prices(
         raise ValueError(f"Unsupported interval: {interval}")
 
     kwargs = {
-        "tickers": symbol,
+        "tickers": to_yfinance_symbol(symbol),
         "interval": interval,
         "auto_adjust": False,
         "progress": False,

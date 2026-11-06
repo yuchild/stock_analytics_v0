@@ -6,3 +6,6 @@ BLK,operating_company,true,Verified publicly traded asset management company
 SCHW,operating_company,true,Verified publicly traded brokerage and financial services company
 BX,operating_company,true,Verified publicly traded alternative asset management company
 KKR,operating_company,true,Verified publicly traded alternative asset management company
+ACP,fund,false,Closed-end credit investment fund
+ACV,fund,false,Closed-end diversified income investment fund
+BGR,fund,false,Closed-end natural resources investment fund

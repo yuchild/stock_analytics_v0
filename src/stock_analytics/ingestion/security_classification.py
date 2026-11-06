@@ -1,6 +1,6 @@
 
 import re
-
+import pandas as pd
 
 def classify_security(
     company_name: str,
@@ -10,10 +10,10 @@ def classify_security(
 ) -> tuple[str, str]:
     """Return normalized security type and classification reason."""
 
-    name = (company_name or "").lower()
-    sector = sector_name or ""
-    industry = (industry_name or "").lower()
-    quote = (quote_type or "").upper()
+    name = str(company_name).lower() if pd.notna(company_name) else ""
+    sector = str(sector_name) if pd.notna(sector_name) else ""
+    industry = str(industry_name).lower() if pd.notna(industry_name) else ""
+    quote = str(quote_type).upper() if pd.notna(quote_type) else ""
 
     if quote in {"ETF", "MUTUALFUND"}:
         return "fund", f"Yahoo quote type: {quote}"
@@ -28,12 +28,6 @@ def classify_security(
         return "fund", "Company name indicates investment fund"
 
     if quote == "EQUITY" and sector:
-        if industry in {"asset management", "capital markets"}:
-            return (
-                "review",
-                "Financial industry requires additional verification",
-            )
-
         return "operating_company", "Yahoo equity classification"
 
     return "review", "Insufficient classification information"

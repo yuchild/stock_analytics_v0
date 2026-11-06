@@ -93,24 +93,8 @@ def main():
                 EXCLUDED.industry_name,
                 staging.company_metadata.industry_name
             ),
-            security_type = CASE
-                WHEN EXCLUDED.quote_type IS NULL
-                AND EXCLUDED.industry_name IS NULL
-                THEN COALESCE(
-                    staging.company_metadata.security_type,
-                    EXCLUDED.security_type
-                )
-                ELSE EXCLUDED.security_type
-            END,
-            eligibility_reason = CASE
-                WHEN EXCLUDED.quote_type IS NULL
-                AND EXCLUDED.industry_name IS NULL
-                THEN COALESCE(
-                    staging.company_metadata.eligibility_reason,
-                    EXCLUDED.eligibility_reason
-                )
-                ELSE EXCLUDED.eligibility_reason
-            END,
+            security_type = EXCLUDED.security_type,
+            eligibility_reason = EXCLUDED.eligibility_reason,
             loaded_at = NOW()
     """)
 
@@ -124,7 +108,10 @@ def main():
             optional_string(row.quote_type),
         )
 
-        is_eligible = bool(row.is_eligible)
+        is_eligible = (
+            bool(row.is_eligible)
+            and security_type != "fund"
+        )
 
         if row.symbol in overrides:
             override = overrides[row.symbol]
