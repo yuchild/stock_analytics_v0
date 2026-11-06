@@ -16,6 +16,8 @@ fi
 
 LOG_FILE="$LOG_DIR/nightly_$(date +%Y%m%d_%H%M%S).log"
 
+trap 'status=$?; echo "Nightly ingestion exit status: $status" >> "$LOG_FILE"' EXIT
+
 {
     echo "Nightly ingestion started: $(date -Is)"
 
