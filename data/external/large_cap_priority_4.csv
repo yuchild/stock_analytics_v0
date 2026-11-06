@@ -1,0 +1,30 @@
+symbol,expected_sector
+GD,Industrials
+NOC,Industrials
+WM,Industrials
+RSG,Industrials
+EMR,Industrials
+ITW,Industrials
+PCAR,Industrials
+CTAS,Industrials
+FAST,Industrials
+CARR,Industrials
+OTIS,Industrials
+AME,Industrials
+KKR,Financials
+BX,Financials
+PNC,Financials
+USB,Financials
+TFC,Financials
+COF,Financials
+ICE,Financials
+CME,Financials
+MCO,Financials
+CBRE,Real Estate
+VICI,Real Estate
+EXR,Real Estate
+MAA,Real Estate
+ESS,Real Estate
+UDR,Real Estate
+HST,Real Estate
+LNG,Energy

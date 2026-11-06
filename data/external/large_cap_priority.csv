@@ -1,0 +1,67 @@
+symbol,expected_sector
+T,Communication Services
+VZ,Communication Services
+CMCSA,Communication Services
+NFLX,Communication Services
+DIS,Communication Services
+TMUS,Communication Services
+ORCL,Information Technology
+AVGO,Information Technology
+CRM,Information Technology
+AMD,Information Technology
+ADBE,Information Technology
+CSCO,Information Technology
+PG,Consumer Staples
+KO,Consumer Staples
+PEP,Consumer Staples
+PM,Consumer Staples
+MO,Consumer Staples
+CL,Consumer Staples
+MCD,Consumer Discretionary
+BKNG,Consumer Discretionary
+LOW,Consumer Discretionary
+TJX,Consumer Discretionary
+SBUX,Consumer Discretionary
+NKE,Consumer Discretionary
+BAC,Financials
+WFC,Financials
+GS,Financials
+MS,Financials
+C,Financials
+BLK,Financials
+ABBV,Health Care
+MRK,Health Care
+PFE,Health Care
+TMO,Health Care
+ABT,Health Care
+ISRG,Health Care
+COP,Energy
+EOG,Energy
+SLB,Energy
+OXY,Energy
+MPC,Energy
+PSX,Energy
+HON,Industrials
+RTX,Industrials
+UNP,Industrials
+DE,Industrials
+ETN,Industrials
+LMT,Industrials
+LIN,Materials
+SHW,Materials
+ECL,Materials
+NEM,Materials
+FCX,Materials
+APD,Materials
+PLD,Real Estate
+AMT,Real Estate
+EQIX,Real Estate
+WELL,Real Estate
+SPG,Real Estate
+O,Real Estate
+SO,Utilities
+AEP,Utilities
+SRE,Utilities
+D,Utilities
+EXC,Utilities
+XEL,Utilities

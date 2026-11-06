@@ -1,0 +1,71 @@
+symbol,expected_sector
+CHTR,Communication Services
+EA,Communication Services
+TTWO,Communication Services
+WBD,Communication Services
+FOX,Communication Services
+FOXA,Communication Services
+OMC,Communication Services
+IPG,Communication Services
+LYV,Communication Services
+PINS,Communication Services
+ROST,Consumer Discretionary
+ORLY,Consumer Discretionary
+AZO,Consumer Discretionary
+MAR,Consumer Discretionary
+HLT,Consumer Discretionary
+CMG,Consumer Discretionary
+YUM,Consumer Discretionary
+DHI,Consumer Discretionary
+LEN,Consumer Discretionary
+GM,Consumer Discretionary
+MDLZ,Consumer Staples
+KMB,Consumer Staples
+GIS,Consumer Staples
+KHC,Consumer Staples
+SYY,Consumer Staples
+KR,Consumer Staples
+HSY,Consumer Staples
+STZ,Consumer Staples
+ADM,Consumer Staples
+KDP,Consumer Staples
+WMB,Energy
+OKE,Energy
+KMI,Energy
+TRGP,Energy
+FANG,Energy
+DVN,Energy
+HAL,Energy
+BKR,Energy
+VLO,Energy
+EQT,Energy
+NUE,Materials
+DOW,Materials
+DD,Materials
+PPG,Materials
+VMC,Materials
+MLM,Materials
+CTVA,Materials
+IFF,Materials
+BALL,Materials
+PKG,Materials
+DLR,Real Estate
+PSA,Real Estate
+CCI,Real Estate
+VTR,Real Estate
+EQR,Real Estate
+AVB,Real Estate
+INVH,Real Estate
+IRM,Real Estate
+WY,Real Estate
+ARE,Real Estate
+CEG,Utilities
+VST,Utilities
+PCG,Utilities
+PEG,Utilities
+ED,Utilities
+WEC,Utilities
+ES,Utilities
+DTE,Utilities
+FE,Utilities
+EIX,Utilities

@@ -21,6 +21,8 @@ METADATA_FIELDS = [
     "company_name",
     "sector_name",
     "market_cap",
+    "quote_type",
+    "industry_name",
 ]
 
 FAILURE_FIELDS = [
@@ -52,12 +54,17 @@ def load_processed_symbols() -> set[str]:
 
 
 def load_failed_symbols() -> set[str]:
-    """Return symbols with recorded failed attempts."""
+    """Return failed symbols that have not subsequently succeeded."""
     if not FAILURES.exists():
         return set()
 
     df = pd.read_csv(FAILURES, dtype={"symbol": str})
-    return set(df["symbol"].dropna().str.upper())
+
+    failed = set(
+        df["symbol"].dropna().str.strip().str.upper()
+    )
+
+    return failed - load_processed_symbols()
 
 
 def main():

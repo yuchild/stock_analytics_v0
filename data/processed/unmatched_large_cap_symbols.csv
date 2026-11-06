@@ -1,0 +1,3 @@
+symbol,company_name,market_cap,source,source_url,fetched_at,normalized_symbol
+WBD,Warner Bros. Discovery,77595885568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00,WBD
+KVUE,Kenvue,37109346304,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00,KVUE

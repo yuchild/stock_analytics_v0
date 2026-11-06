@@ -1,0 +1,503 @@
+symbol,company_name,market_cap,source,source_url,fetched_at
+AAPL,Apple,5031041433600,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+NVDA,NVIDIA,4451016376320,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MSFT,Microsoft,4005652332544,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+GOOG,Alphabet (Google),3500839534592,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+AMZN,Amazon,2823526547456,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+SPCX,SpaceX,1716510654464,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+META,Meta Platforms (Facebook),1554337103872,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+AVGO,Broadcom,1427601752064,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+TSLA,Tesla,1362387533824,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+LLY,Eli Lilly,1233361174528,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+BRK-B,Berkshire Hathaway,1230201683968,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+WMT,Walmart,1023849988096,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+JPM,JPMorgan Chase,896374472704,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+V,Visa,795738636288,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MU,Micron Technology,780913999872,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+AMD,AMD,689371283456,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+XOM,Exxon Mobil,686492352512,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+JNJ,Johnson & Johnson,659663224832,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MA,Mastercard,573024829440,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+ABBV,AbbVie,515313172480,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+COST,Costco,473335267328,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+CVX,Chevron,421884264448,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+KO,Coca-Cola,412208267264,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PG,Procter & Gamble,386816901120,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+CSCO,Cisco,382549196800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PLTR,Palantir,376604491776,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MRK,Merck,366004928512,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+ORCL,Oracle,362277666816,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+UNH,UnitedHealth,356392992768,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+HD,Home Depot,349392502784,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+BAC,Bank of America,345182961664,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+GE,General Electric,328523415552,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PM,Philip Morris International,317084303360,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+INTC,Intel,290092711936,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MS,Morgan Stanley,287091425280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+NFLX,Netflix,271834447872,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+TXN,Texas Instruments,264633548800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PANW,Palo Alto Networks,262491078656,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+AMAT,Applied Materials,262252199936,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+RTX,RTX,259915743232,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+CAT,Caterpillar,257241137152,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+TMO,Thermo Fisher Scientific,253892296704,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+WFC,Wells Fargo,253851484160,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+AMGN,Amgen,252941025280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+GS,Goldman Sachs,251852423168,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+LRCX,Lam Research,241124442112,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+IBM,IBM,236162072576,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+CRWD,CrowdStrike,227743580160,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+AXP,American Express,218633469952,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+GILD,Gilead Sciences,210299404288,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+DELL,Dell,210028019712,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+GEV,GE Vernova,207657697280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+ANET,Arista Networks,205264977920,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+DIS,Walt Disney,203282841600,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+ABT,Abbott Laboratories,197504188416,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MCD,McDonald,196243161088,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+C,Citigroup,195881992192,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PEP,Pepsico,195362570240,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+BLK,BlackRock,191551291392,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+VZ,Verizon,191480446976,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+NEE,Nextera Energy,184804130816,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+ADI,Analog Devices,183454072832,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+CRM,Salesforce,182623698944,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+WELL,Welltower,180625752064,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+DE,Deere & Company (John Deere),180379402240,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+APH,Amphenol,179465912320,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+KLAC,KLA,177815289856,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+UNP,Union Pacific Corporation,177586995200,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PFE,Pfizer,172506071040,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+QCOM,QUALCOMM,169487482880,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+TMUS,T-Mobile US,169160540160,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+ISRG,Intuitive Surgical,165334122496,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+COP,ConocoPhillips,164913594368,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+DHR,Danaher,160326516736,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+SCHW,Charles Schwab,160205651968,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+TJX,TJX Companies,153918455808,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+T,AT&T,146181488640,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+BX,Blackstone Group,144786423808,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+SCCO,Southern Copper,143250882560,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+UBER,Uber,140507709440,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+VRTX,Vertex Pharmaceuticals,138649616384,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+SPGI,S&P Global,137493774336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+BA,Boeing,136432132096,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PGR,Progressive,136393441280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+LMT,Lockheed Martin,134092414976,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+BMY,Bristol-Myers Squibb,129451966464,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MO,Altria Group,129448665088,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+LOW,Lowe's Companies,127718334464,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+SYK,Stryker Corporation,127282135040,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MCK,McKesson,126448082944,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+MRVL,Marvell Technology,126318133248,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+IBKR,Interactive Brokers,125929013248,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PLD,Prologis,125681688576,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+BKNG,Booking Holdings (Booking.com),124971548672,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+NEM,Newmont,124339470336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+SBUX,Starbucks,122287128576,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+COF,Capital One,122014990336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+SNDK,Sandisk,121332981760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+ADP,Automatic Data Processing,121078636544,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+APP,AppLovin,118329106432,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/,2026-11-05T19:55:10.115595+00:00
+PH,Parker-Hannifin,116037296128,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CME,CME Group,110164893696,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MAR,Marriott International,107766882304,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+NOW,ServiceNow,107258339328,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+SO,Southern Company,107093049344,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+HCA,HCA Healthcare,106172743680,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MPC,Marathon Petroleum,105503940608,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+WDC,Western Digital,105173606400,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CVS,CVS Health,102908108800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ABNB,Airbnb,102470197248,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+DUK,Duke Energy,101599092736,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+VLO,Valero Energy,100077674496,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MRSH,Marsh & McLennan Companies,99682074624,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+BNY,BNY Mellon (Bank of New York Mellon),99578888192,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+EQIX,Equinix,99232817152,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+PSX,Phillips 66,98871640064,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ICE,Intercontinental Exchange,97576689664,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MMM,3M,97497325568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+GD,General Dynamics,97425104896,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MRNA,Moderna,97413521408,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+SNOW,Snowflake,96797736960,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+WM,Waste Management,95957262336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ADBE,Adobe,95723741184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+UPS,United Parcel Service,94666465280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CSX,CSX Corporation,94559576064,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MNST,Monster Beverage,94289166336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+INTU,Intuit,94248787968,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+REGN,Regeneron Pharmaceuticals,94117896192,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+USB,U.S. Bancorp,93031251968,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ELV,Elevance Health,92664995840,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+EMR,Emerson,92590120960,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+GLW,Corning,91325743104,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+KKR,KKR & Co.,91163000832,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+FTNT,Fortinet,90799104000,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+PNC,PNC Financial Services,90274938880,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CTAS,Cintas,90271055872,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+AMT,American Tower,89886654464,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MCO,Moody's,88697528320,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CMCSA,Comcast,87905157120,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MSI,Motorola Solutions,87069589504,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CDNS,Cadence Design Systems,86821748736,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+RCL,Royal Caribbean Group,86358335488,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+SPG,Simon Property Group,86231474176,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+NET,Cloudflare,86157049856,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ECL,Ecolab,85746016256,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+SNPS,Synopsys,85489106944,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CEG,Constellation Energy,85458944000,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MDLZ,Mondelez International,85013708800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+SHW,Sherwin-Williams,84630716416,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+FCX,Freeport-McMoRan,84208066560,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+TRV,The Travelers Companies,82908684288,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+HLT,Hilton Worldwide,82250956800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ITW,Illinois Tool Works,81802706944,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+WMB,Williams Companies,81000620032,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+HWM,Howmet Aerospace,80858300416,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CI,The Cigna Group,79811198976,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+EPD,Enterprise Products,79438536704,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CVNA,Carvana,79288303616,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+DASH,DoorDash,78743863296,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CL,Colgate-Palmolive,78681235456,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+PWR,Quanta Services,78017617920,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+EOG,EOG Resources,77819691008,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+WBD,Warner Bros. Discovery,77595885568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+GM,General Motors,76019458048,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+RSG,Republic Services,75733417984,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ROST,Ross Stores,75362189312,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+SLB,SLB (Schlumberger),74768277504,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+FDX,FedEx,74685005824,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+NOC,Northrop Grumman,74489389056,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+NSC,Norfolk Southern,74224590848,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+AJG,Arthur J. Gallagher & Co.,74021879808,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ORLY,O'Reilly Automotive,73195143168,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+TGT,Target,72223252480,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+HOOD,Robinhood,71066771456,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+APO,Apollo Global Management,69365170176,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+HON,Honeywell,69251391488,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+AEP,American Electric Power,69089501184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+VRT,Vertiv Holdings,69064433664,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+APD,Air Products and Chemicals,68694036480,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+GWW,W. W. Grainger,68597596160,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ALL,Allstate,68434739200,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+KMI,Kinder Morgan,68165861376,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+KMB,Kimberly-Clark,67751981056,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+TDG,TransDigm Group,66773233664,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+DLR,Digital Realty,66719956992,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+ET,Energy Transfer LP,66249084928,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+URI,United Rentals,65787305984,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+COR,Cencora,65316323328,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+BSX,Boston Scientific,64363859968,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+MET,MetLife,64316620800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+DDOG,Datadog,63717859328,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+PSA,Public Storage,63465119744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+AFL,Aflac,63422431232,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CAH,Cardinal Health,62870679552,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+CMI,Cummins,62159937536,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+D,Dominion Energy,61301358592,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+FAST,Fastenal,60784033792,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+HPE,Hewlett Packard Enterprise,60625317888,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+NDAQ,Nasdaq,60210241536,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+TFC,Truist Financial Corporation,59732664320,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=2,2026-11-05T19:55:10.115595+00:00
+TRGP,Targa Resources,59205480448,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+NKE,Nike,58691977216,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+MPWR,Monolithic Power Systems,58061234176,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+LNG,Cheniere Energy,57877516288,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+EW,Edwards Lifesciences,57781530624,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+BDX,Becton Dickinson,57672458240,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+MPLX,MPLX,57362653184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+OXY,Occidental Petroleum,56999321600,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+NUE,Nucor,56575987712,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ADSK,Autodesk,56251301888,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+O,Realty Income,56148578304,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+DAL,Delta Air Lines,56113348608,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+PCAR,Paccar,55363350528,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+MSTR,"Strategy 
+ (MicroStrategy)",55092219904,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+OKE,Oneok,55076151296,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+EBAY,eBay,53977247744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+MDLN,Medline,53871149056,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+NTRA,Natera,53212987392,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+IDXX,IDEXX Laboratories,53056245760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+AZO,AutoZone,53024415744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ETR,Entergy,52646993920,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+SRE,Sempra,52397031424,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+AME,Ametek,51907276800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CTVA,Corteva,51807772672,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+XEL,Xcel Energy,51279347712,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+XYZ,Block,51196968960,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+FANG,Diamondback Energy,51071922176,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+VEEV,Veeva Systems,50518798336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+BE,Bloom Energy,50424557568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+VMRK,Vivmark Residential,50218266624,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+KDP,Keurig Dr Pepper,50191474688,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+F,Ford,49735524352,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+HUM,Humana,49504907264,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ROP,Roper Technologies,49092362240,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+PYPL,PayPal,48900853760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+A,Agilent Technologies,48886464512,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+LITE,Lumentum,48748806144,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+LHX,L3Harris Technologies,48420573184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+WDAY,Workday,48334958592,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+FITB,Fifth Third Bank,48241127424,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+MSCI,MSCI,47952916480,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+HONA,Honeywell Aerospace,47917776896,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+DVN,Devon Energy,47882997760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+WCN,Waste Connections,47857356800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+EXC,Exelon Corporation,47807053824,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+WAB,Wabtec,47568621568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+VTR,Ventas,46940708864,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+BKR,Baker Hughes,46903095296,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+VYLR,Vylor Inc.,46784606208,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+HEI,HEICO,45804093440,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+STT,State Street Corporation,45388062720,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+KEYS,Keysight,45005901824,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+WAT,Waters Corporation,44899409920,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ED,Consolidated Edison,44582842368,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+YUM,Yum! Brands,44582715392,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ONC,BeOne Medicines,44568240128,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+AMP,Ameriprise Financial,44372893696,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CMG,Chipotle Mexican Grill,44255150080,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ARES,Ares Management,44079751168,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+IQV,IQVIA,43749457920,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CARR,Carrier Global,43567030272,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ROK,Rockwell Automation,42840354816,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+PAYX,Paychex,42603745280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+DHI,D. R. Horton,42544820224,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+LYV,Live Nation,42520932352,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+PRU,Prudential Financial,42386698240,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+RKT,Rocket Companies,42341416960,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+AIG,American International Group,41900228608,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+KR,Kroger,40992763904,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CCI,Crown Castle,39884988416,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CCL,Carnival Corporation,39820632064,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+TTWO,Take-Two Interactive,39713714176,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+EL,Estee Lauder,39649824768,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+PCG,PG&E Corporation,39646257152,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CBRE,CBRE Group,39511707648,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+RVMD,Revolution Medicines,39437901824,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+WEC,WEC Energy Group,38717460480,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+VST,Vistra,38585696256,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+GEHC,GE HealthCare Technologies,37808893952,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+MLM,Martin Marietta Materials,37438574592,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+SYY,Sysco,37165948928,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+KVUE,Kenvue,37109346304,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+MCHP,Microchip Technology,37103783936,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+COIN,Coinbase,36897431552,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CBOE,Cboe Global Markets,36832223232,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+HIG,The Hartford,36683767808,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+CNC,Centene,36592951296,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+BIIB,Biogen,36575158272,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+VMC,Vulcan Materials,36435701760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+PEG,PSEG,36237086720,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ODFL,Old Dominion Freight Line,36015947776,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+UAL,United Airlines Holdings,35842347008,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+TKO,TKO Group Holdings,35779543040,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+EXR,Extra Space Storage,35369787392,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+HSY,The Hershey Company,35333353472,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+TER,Teradyne,34987556864,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+FIX,Comfort Systems USA,34851180544,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+COHR,Coherent Corp.,34488557568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+NTAP,NetApp,34314399744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+RBLX,Roblox,34286245888,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=3,2026-11-05T19:55:10.115595+00:00
+ZTS,Zoetis,34171527168,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CIEN,Ciena,34012776448,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ZS,Zscaler,33931685888,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+MTD,Mettler Toledo,33739163648,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ADM,Archer Daniels Midland (ADM),33590378496,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ALAB,Astera Labs,33479507968,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+FISV,Fiserv,33327468544,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+RMD,ResMed,33290715136,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+EXPE,Expedia Group,32883650560,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+P,Everpure,32146335744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+STLD,Steel Dynamics,32105596928,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ILMN,Illumina,31983335424,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+EQT,EQT Corporation,31974961152,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+AXON,Axon Enterprise,31821506560,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+RJF,Raymond James Financial,31756050432,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+SUNB,Sunbelt Rentals,31646144512,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+IRM,Iron Mountain,31544590336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+MTB,M&T Bank,31532408832,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DXCM,DexCom,31503163392,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+TWLO,Twilio,31482187776,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+UI,Ubiquiti,31448203264,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+HBAN,Huntington Bancshares,31409811456,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+NTRS,Northern Trust,31293534208,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+AEE,Ameren,31164246016,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+SN,SharkNinja,31122419712,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DG,Dollar General,30811340800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+WSM,Williams-Sonoma,30540138496,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+OKTA,Okta,30503628800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+OTIS,Otis Worldwide,30378795008,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+AWK,American Water,30101637120,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+RKLB,Rocket Lab,30055514112,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+KHC,Kraft Heinz,29959835648,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CTSH,Cognizant Technology Solutions,29906335744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CPAY,Corpay,29783851008,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CPRT,Copart,29753733120,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ATO,Atmos Energy,29588205568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+LH,LabCorp,29452457984,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+VG,Venture Global,29438593024,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CPNG,Coupang,29160683520,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CINF,Cincinnati Financial,28948207616,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+WRB,W. R. Berkley,28595570688,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+VLTO,Veralto,28574025728,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CQP,"Cheniere Energy
+Partners",28278648832,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+VRSN,VeriSign,28100317184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DTE,DTE Energy,28060676096,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DGX,Quest Diagnostics,27973023744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+TDY,Teledyne Technologies,27963594752,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+WST,West Pharmaceutical Services,27715340288,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ULTA,ULTA Beauty,27681187840,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+TW,Tradeweb,27588968448,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+VICI,VICI Properties,27565676544,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+FE,FirstEnergy,27118258176,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DOV,Dover Corporation,27099551744,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+PPG,PPG Industries,27045890048,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+VRSK,Verisk Analytics,27041212416,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+HPQ,HP,27031185408,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+PPL,PPL,26937339904,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+HAL,Halliburton,26898149376,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CFG,Citizens Financial Group,26841057280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ES,Eversource Energy,26815475712,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+TPR,Tapestry,26731227136,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ECHO,EchoStar,26537205760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CNP,CenterPoint Energy,26488668160,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+FWONK,Formula One Group,26432194560,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DLTR,Dollar Tree,26384572416,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+LVS,Las Vegas Sands,26303145984,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CHD,Church & Dwight,26290429952,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ZM,Zoom,26111723520,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+EME,Emcor,26107865088,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DRI,Darden Restaurants,25762146304,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+PHM,PulteGroup,25686132736,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+FCNCA,First Citizens BancShares,25586075648,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+GPN,Global Payments,25474811904,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+FOX,Fox Corporation,25468368896,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CASY,Casey's General Stores,25461860352,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ON,ON Semiconductor,25415759872,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+JBL,Jabil,25374453760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+MDB,MongoDB,25151465472,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+EXPD,Expeditors International,24667885568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+CRWV,CoreWeave,24493740032,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+BRO,Brown & Brown,24450662400,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+IOT,Samsara,24434374656,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+STZ,Constellation Brands,24411441152,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+UTHR,United Therapeutics,24380344320,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+INCY,Incyte,24239759360,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+RF,Regions Financial,24164980736,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+PFG,Principal Financial Group,24049510400,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+SYF,Synchrony Financial,24028637184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ROKU,Roku,24023951360,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+OMC,Omnicom Group,23890046976,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+MKL,Markel Group,23860713472,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+INSM,Insmed,23678812160,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+Q,Qnity Electronics,23650121728,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+AFRM,Affirm,23624548352,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+USFD,US Foods,23593027584,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+LPLA,LPL Financial,23539621888,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+EIX,Edison International,23429693440,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+TROW,T. Rowe Price,23237595136,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+DOW,Dow,23232991232,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+ATI,ATI Inc.,23133323264,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=4,2026-11-05T19:55:10.115595+00:00
+EFX,Equifax,22870196224,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+XYL,Xylem,22819182592,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RL,Ralph Lauren,22812549120,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+THC,Tenet Healthcare,22554046464,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+HUBB,Hubbell,22455418880,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+L,Loews Corporation,22442956800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+CRDO,Credo Technology,22236592128,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RBRK,Rubrik,22219192320,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+KEY,KeyCorp (KeyBank),22159736832,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+CMS,CMS Energy,22032199680,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+VTRS,Viatris,21920856064,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+BR,Broadridge Financial Solutions,21910374400,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RGLD,Royal Gold,21897916416,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+LUV,Southwest Airlines,21757224960,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+U,Unity Software,21749194752,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+PKG,Packaging Corporation of America,21748893696,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+LEN,Lennar,21722671104,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+IFF,International Flavors & Fragrances,21571211264,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SYM,Symbotic,21508610048,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+ALNY,Alnylam Pharmaceuticals,21467193344,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RS,Reliance,21372297216,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+NI,NiSource,21292490752,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+FSLR,First Solar,21292017664,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+PTC,PTC,21191974912,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+GH,Guardant Health,21181521920,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+TSN,Tyson Foods,21120403456,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+XPO,XPO Logistics,21037428736,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+BBY,Best Buy,20917192704,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+ARXS,"Arxis, Inc.",20890769408,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SOFI,SoFi,20830158848,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+JBHT,J. B. Hunt,20719513600,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+CDW,CDW Corporation,20679133184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+GFS,GlobalFoundries,20647903232,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+TOST,Toast,20375670784,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+ZBH,Zimmer Biomet,20280662016,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+ENTG,Entegris,20255168512,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SBAC,SBA Communications,20139790336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+PS,Pershing Square Inc.,20111998976,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+CBRS,Cerebras Systems,20105043968,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+EVRG,Evergy,20100845568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+LYB,LyondellBasell,19958607872,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+EXE,Expand Energy,19780341760,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+FTV,Fortive,19711502336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RIVN,Rivian,19463880704,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+GIS,General Mills,19401121792,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SWKS,Skyworks Solutions,19383521280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+DD,Dupont De Nemours,19331166208,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+TPL,Texas Pacific Land Corporation,19305324544,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+LNT,Alliant Energy,18954149888,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+TSCO,Tractor Supply,18875146240,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SNA,Snap-on,18864365568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+BG,Bunge Global SA,18793582592,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+ROL,Rollins,18656413696,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+FDXF,FedEx Freight,18652778496,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+ESS,Essex Property Trust,18604298240,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+PR,Permian Resources,18530949120,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+TPG,TPG Inc.,18456260608,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SSNC,SS&C Technologies,18434496512,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+WWD,Woodward,18357344256,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RDDT,Reddit,18290802688,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SMCI,Supermicro,18260353024,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+ITT,ITT,18149216256,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+GEN,Gen Digital,18133483520,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+MEDP,Medpace,17973207040,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+FFIV,F5,17926428672,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+CF,CF Industries,17917677568,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+CRCL,Circle Internet Group,17830209536,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+IP,International Paper,17782958080,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+EWBC,East West Bancorp,17748514816,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SNX,TD Synnex,17712203776,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+NDSN,Nordson,17613533184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+J,Jacobs Engineering,17488494592,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+APG,APi Group,17431345152,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+PAA,Plains All American Pipeline,17431019520,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+PFGC,Performance Food Group,17429452800,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+DINO,HF Sinclair,17347903488,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+HST,Host Hotels & Resorts,17267425280,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+H,Hyatt Hotels,17258954752,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+BALL,Ball Corporation,17258631168,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+SWK,Stanley Black & Decker,17201178624,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RGA,Reinsurance Group of America,17176296448,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+JLL,Jones Lang LaSalle,17167657984,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+RVTY,Revvity,17116237824,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+EXEL,Exelixis,17095402496,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+NRG,NRG Energy,17094316032,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+NVR,NVR,17047729152,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+TYL,Tyler Technologies,17019063296,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+KIM,Kimco Realty,17000972288,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+GPC,Genuine Parts Company,16983632896,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+WMG,Warner Music Group,16791822336,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+FTAI,FTAI Aviation,16719768576,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+HAS,Hasbro,16716376064,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+OVV,Ovintiv,16652268544,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+LDOS,Leidos,16637026304,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+CW,Curtiss-Wright,16569345024,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+IEX,IDEX,16525043712,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+WES,Western Midstream,16489797632,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+BEN,Franklin Resources,16448989184,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+NBIX,Neurocrine Biosciences,16417662976,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00
+MAS,Masco,16154051584,CompaniesMarketCap,https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/?page=5,2026-11-05T19:55:10.115595+00:00

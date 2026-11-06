@@ -8,35 +8,49 @@ AACOW,Abony Acquisition Corp. I - Warrants,Security description
 AACPR,Apogee Acquisition Corp - Rights,Ticker suffix
 AACPU,Apogee Acquisition Corp - Units,Ticker suffix
 AACPW,Apogee Acquisition Corp - Warrant,Security description
-AB,AllianceBernstein Holding L.P.  Units,Ticker suffix
 ABLVW,Able View Global Inc. - Warrant,Security description
 ABR$D,"Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share",Security description
 ABR$E,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,Security description
 ABR$F,"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per share",Security description
+ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",Security description
 ACAAU,Averin Capital Acquisition Corp. - Units,Ticker suffix
 ACAAW,Averin Capital Acquisition Corp. - Warrants,Security description
 ACGCU,ACP Holdings Acquisition Corp. - Units,Ticker suffix
 ACGCW,ACP Holdings Acquisition Corp. - Warrants,Security description
+ACGLN,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",Security description
 ACGLO,"Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",Security description
 ACONW,"Aclarion, Inc. - Warrant",Security description
+ACP,abrdn Income Credit Strategies Fund Common Shares,Security description
 ACP$A,abrdn Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock,Security description
 ACR$C,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock ,Security description
 ACR$D,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Preferred Stock,Security description
+ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,Security description
 ADACU,American Drive Acquisition Company - Units,Ticker suffix
 ADACW,American Drive Acquisition Company - Warrant,Security description
+ADAMG,"Adamas Trust, Inc. - 9.125% Senior Notes Due 2030",Security description
+ADAMH,"Adamas Trust, Inc. - 9.875% Senior Notes Due 2030",Security description
+ADAMI,"Adamas Trust, Inc. - 9.125% Senior Notes Due 2029",Security description
+ADAMK,"Adamas Trust, Inc. - 9.600% Senior Notes Due 2031",Security description
 ADAML,"Adamas Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",Security description
 ADAMM,"Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Security description
 ADAMN,"Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Security description
+ADAMO,"Adamas Trust, Inc. - 9.250% Senior Notes Due 2031",Security description
 ADAMZ,"Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",Security description
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",Security description
 ADSEW,ADS-TEC ENERGY PLC - Warrant,Security description
 AEAQU,Activate Energy Acquisition Corp. - Unit,Ticker suffix
 AEAQW,Activate Energy Acquisition Corp. - Warrant,Security description
+AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,Security description
 AENTW,Alliance Entertainment Holding Corporation - Warrants,Security description
 AERTW,"Aeries Technology, Inc. - Warrant",Security description
 AESPR,Aeon Acquisition I Corp. - Rights,Ticker suffix
 AESPU,Aeon Acquisition I Corp. - Units,Ticker suffix
 AESPW,Aeon Acquisition I Corp. - Warrants,Security description
+AFB,AllianceBernstein National Municipal Income Fund Inc,Security description
+AFGB,"American Financial Group, Inc. 5.875% Subordinated Debentures due 2059",Security description
+AFGC,"American Financial Group, Inc. 5.125% Subordinated Debentures due 2059",Security description
+AFGD,"American Financial Group, Inc. 5.625% Subordinated Debentures due 2060",Security description
+AFGE,"American Financial Group, Inc. 4.500% Subordinated Debentures due 2060",Security description
 AFJKR,"Aimei Health Technology Co., Ltd - Right",Ticker suffix
 AFJKU,"Aimei Health Technology Co., Ltd - Unit",Ticker suffix
 AFRIW,Forafric Global PLC - Warrants,Security description
@@ -65,8 +79,11 @@ AIIA.R,"AI Infrastructure Acquisition Corp. Rights, each entitling the holder to
 AIIA.U,"AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right",Security description
 AIIOW,Robo.ai Inc. - Warrant,Security description
 AIMDW,"Ainos, Inc. - warrants",Security description
+AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,Security description
 AIRJW,AirJoule Technologies Corporation - Warrant,Security description
+AIRTP,"Air T, Inc. - Trust Preferred Securities",Security description
 AISPW,"Airship AI Holdings, Inc - Warrants",Security description
+AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061",Security description
 ALB$A,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,Security description
 ALDFU,Aldel Financial II Inc. - Units,Ticker suffix
 ALDFW,Aldel Financial II Inc. - Warrants,Security description
@@ -74,6 +91,7 @@ ALFUU,Centurion Acquisition Corp. - Unit,Ticker suffix
 ALFUW,Centurion Acquisition Corp. - Warrant,Security description
 ALISR,Calisa Acquisition Corp - Right,Ticker suffix
 ALISU,Calisa Acquisition Corp - Units,Ticker suffix
+ALL$B,Allstate Corporation (The) 5.100% Fixed-to-Floating Rate Subordinated Debentures due 2053,Security description
 ALL$H,"Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series H",Security description
 ALL$I,"Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series I",Security description
 ALL$J,"Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series J",Security description
@@ -97,14 +115,18 @@ AMX,"America Movil, S.A.B. de C.V. American Depositary Shares (each representing
 ANG$D,"American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",Security description
 ANGHW,Anghami Inc. - Warrants,Security description
 ANNAW,"AleAnna, Inc. - Warrant",Security description
+AOMD,"Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",Security description
+AOMN,"Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029",Security description
 APACR,StoneBridge Acquisition II Corporation - Rights,Ticker suffix
 APACU,StoneBridge Acquisition II Corporation - Units,Ticker suffix
 APLMW,Apollomics Inc. - Warrant,Security description
 APMCR,AmperCap Acquisition Company - Right,Ticker suffix
 APMCU,AmperCap Acquisition Company - Unit,Ticker suffix
+APOS,"Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",Security description
 APURR,Aperture AC - Rights,Ticker suffix
 APXTU,Apex Treasury Corporation - Units,Ticker suffix
 APXTW,Apex Treasury Corporation - Warrants,Security description
+AQNB,"Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1, 2079",Security description
 ARCC,Ares Capital Corporation - Closed End Fund,Security description
 ARCIU,Archimedes Tech SPAC Partners III Co. - Unit,Ticker suffix
 ARCIW,Archimedes Tech SPAC Partners III Co. - Warrant,Security description
@@ -112,13 +134,14 @@ ARCLR,ARC Group Acquisition I Corp - Right,Ticker suffix
 ARCLU,ARC Group Acquisition I Corp - Unit,Ticker suffix
 ARCLW,ARC Group Acquisition I Corp - Warrants,Security description
 ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Security description
-ARLP,"Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",Ticker suffix
 ARR$C,"ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred Stock (liquidation preference $25.00 per share)",Security description
 ARTCU,Art Technology Acquisition Corp. - Units,Ticker suffix
 ARTCW,Art Technology Acquisition Corp. - Warrants,Security description
 ASB$E,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series E",Security description
 ASB$F,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.625% Non-Cumulative Perpetual Preferred Stock, Series F",Security description
+ASBA,Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033,Security description
 ASBPW,"Aspire-Lakewood Holdings, Inc. - Warrant",Security description
+ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,Security description
 ASPCR,A SPAC III Acquisition Corp. - Right,Ticker suffix
 ASPCU,A SPAC III Acquisition Corp. - Unit,Ticker suffix
 ASPSW,Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants,Security description
@@ -127,18 +150,25 @@ ATH$A,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Inte
 ATH$B,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 5.625% Fixed Rate Perpetual Non- Cumulative Preference Share, Series B, par value $1.00 per share",Security description
 ATH$D,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed-Rate Perpetual Non-Cumulative Preference Share, Series D",Security description
 ATH$E,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.750% Fixed-Rate Reset Perpetual Non-Cumulative Preference Share, Series E",Security description
+ATHS,Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064,Security description
+ATLCL,Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026,Security description
 ATLCP,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",Security description
+ATLCZ,Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029,Security description
 ATLQR,JAB Acquisition Corp I - Rights,Ticker suffix
 ATLQU,JAB Acquisition Corp I - Units,Ticker suffix
 ATLQW,JAB Acquisition Corp I - Warrants,Security description
 AUB$A,"Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A",Security description
 AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),Security description
+AVK,Advent Convertible and Income Fund,Security description
+AWF,Alliancebernstein Global High Income Fund,Security description
 AXINR,Axiom Intelligence Acquisition Corp 1 - Right,Ticker suffix
 AXINU,Axiom Intelligence Acquisition Corp 1 - Units,Ticker suffix
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",Security description
 BA$A,"Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",Security description
 BAC$B,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series GG",Security description
+BAC$E,Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E,Security description
 BAC$K,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.875% Non- Cumulative Preferred Stock, Series HH",Security description
+BAC$L,Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L,Security description
 BAC$M,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series KK",Security description
 BAC$N,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 5.000% Non-Cumulative Preferred Stock, Series LL",Security description
 BAC$O,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN",Security description
@@ -149,9 +179,13 @@ BACCR,Blue Acquisition Corp. - Right,Ticker suffix
 BACCU,Blue Acquisition Corp. - Unit,Ticker suffix
 BAERW,"Bridger Aerospace Group Holdings, Inc. - Warrant",Security description
 BANC$F,"Banc of California, Inc. Depositary Shares, each representing a 1/40th interest in a share of 7.75% non-cumulative perpetual preferred stock, Series F",Security description
+BANFP,BancFirst Corporation - 7.2% Cumulative Trust Preferred Securities,Security description
 BANX,ArrowMark Financial Corp. - Closed End Fund,Security description
 BBAI.W,"BigBear.ai, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Security description
 BBCIW,Bradbury Capital Inc. - Warrants,Security description
+BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,Security description
+BC$C,Brunswick Corporation 6.375% Notes due 2049,Security description
+BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,Security description
 BCCQU,Bleichroeder Acquisition Corp. III - Units,Ticker suffix
 BCCQW,Bleichroeder Acquisition Corp. III - Warrant,Security description
 BCGWW,"Binah Capital Group, Inc. - Warrants",Security description
@@ -163,6 +197,7 @@ BCTXZ,BriaCell Therapeutics Corp. - Warrant,Security description
 BCV$A,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,Security description
 BDCIU,BTC Development Corp. - Unit,Ticker suffix
 BDCIW,BTC Development Corp. - Warrant,Security description
+BDJ,Blackrock Enhanced Equity Dividend Trust,Security description
 BDMDW,Baird Medical Investment Holdings Ltd - Warrant,Security description
 BEAGR,Bold Eagle Acquisition Corp. - Right,Ticker suffix
 BEAGU,Bold Eagle Acquisition Corp. - Units,Ticker suffix
@@ -170,8 +205,10 @@ BEATW,"Heartbeam, Inc. - Warrant",Security description
 BEBE.U,"TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Security description
 BEBE.W,"TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Security description
 BENFW,Beneficient - Warrant,Security description
-BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,Ticker suffix
 BEP$A,"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17",Ticker suffix
+BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,Security description
+BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,Security description
+BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Security description
 BESS.W,"Bimergen Energy Corporation Warrants, each share exercisable to purchase one share of Common Stock",Security description
 BETRW,Better Home & Finance Holding Company - Warrant,Security description
 BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",Security description
@@ -180,48 +217,67 @@ BFRGW,"Bullfrog AI Holdings, Inc. - Warrants",Security description
 BFS$D,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock",Security description
 BFS$E,"Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock",Security description
 BGLWW,Blue Gold Limited - Warrant,Security description
+BGR,BlackRock Energy and Resources Trust,Security description
+BGT,BlackRock Floating Rate Income Trust,Security description
+BGX,Blackstone Long Short Credit Income Fund Common Shares,Security description
+BGY,Blackrock Enhanced International Dividend Trust,Security description
 BHAIU,BHAV Acquisition Corp II - Units,Ticker suffix
 BHAVR,BHAV Acquisition Corp - Rights,Ticker suffix
 BHAVU,BHAV Acquisition Corp - Units,Ticker suffix
+BHFAL,"Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058",Security description
 BHFAM,"Brighthouse Financial, Inc. - Depositary shares each representing a 1/1,000th Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series D",Security description
 BHFAN,"Brighthouse Financial, Inc. - depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C",Security description
 BHFAO,"Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 6.750% Non-Cumulative Preferred Stock, Series B",Security description
 BHFAP,"Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A",Security description
+BHK,Blackrock Core Bond Trust,Security description
 BHR$B,"Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Preferred Stock, par value $0.01 per share",Security description
 BHR$D,"Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock,  par value $0.01 per share",Security description
+BHV,BlackRock Virginia Municipal Bond Trust,Security description
 BIAFW,"bioAffinity Technologies, Inc. - Warrant",Security description
 BIDWR,Tribeca Strategic Acquisition Corp. - Rights,Ticker suffix
 BIDWU,Tribeca Strategic Acquisition Corp. - Unit,Ticker suffix
 BIII.U,"Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Security description
 BIII.W,"Black Spade Acquisition III Co Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Security description
 BIOTW,Instinct Bio Technical Company Holdings Inc. - Warrants,Security description
-BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,Ticker suffix
 BIP$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",Ticker suffix
 BIP$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",Ticker suffix
+BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,Security description
+BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,Security description
+BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Security description
+BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,Security description
 BIVIW,BioVie Inc. - Warrant,Security description
 BIXIU,Bitcoin Infrastructure Acquisition Corp Ltd. - Units,Ticker suffix
 BIXIW,Bitcoin Infrastructure Acquisition Corp Ltd. - Warrants,Security description
 BKHAR,Black Hawk Acquisition Corporation - Rights,Ticker suffix
 BKHAU,Black Hawk Acquisition Corporation - Units,Ticker suffix
+BKT,BlackRock Income Trust Inc. (The),Security description
 BLRKU,Bluerock Acquisition Corp. - Units,Ticker suffix
 BLRKW,Bluerock Acquisition Corp. - Warrants,Security description
 BLUWU,Blue Water Acquisition Corp. III - Unit.,Ticker suffix
 BLUWW,Blue Water Acquisition Corp. III - Warrant.,Security description
+BLW,Blackrock Limited Duration Income Trust,Security description
 BLZRU,Trailblazer Acquisition Corp. - Unit,Ticker suffix
 BLZRW,Trailblazer Acquisition Corp. - Warrant,Security description
+BME,Blackrock Health Sciences Trust,Security description
+BMEZ,BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest,Security description
 BML$G,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a share of Floating Rate Non-Cumulative Preferred Stock , Series 1)",Security description
 BML$H,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 2)",Security description
 BML$J,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)",Security description
 BML$L,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",Security description
+BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,Security description
 BMNP,"BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",Security description
 BNAIW,Brand Engagement Network Inc. - Warrant,Security description
 BNCWW,BNB Standard Corporation - Warrant,Security description
 BNCWZ,BNB Standard Corporation - Warrants,Security description
+BNH,"Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080",Security description
+BNJ,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes,Security description
 BNY$K,"The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",Security description
+BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,Security description
 BOH$A,"Bank of Hawaii Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 4.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",Security description
 BOH$B,"Bank of Hawaii Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.000% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B",Security description
 BPACR,Blueport Acquisition Ltd - Rights,Ticker suffix
 BPACU,Blueport Acquisition Ltd - Units,Ticker suffix
+BPOPM,"Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",Security description
 BPYPM,"Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeemable Preferred Units, Series 1",Ticker suffix
 BPYPN,"Brookfield Property Partners L.P. - 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",Ticker suffix
 BPYPO,"Brookfield Property Partners L.P. - 6.375% Class A Cumulative Redeemable Perpetual Preferred Units, Series 2",Ticker suffix
@@ -234,25 +290,33 @@ BRLSW,Borealis Foods Inc. - Warrant,Security description
 BRRKU,Bluerock Acquisition Corp. II - Units,Ticker suffix
 BRTMU,B&R Technology Merger Corp. - Units,Ticker suffix
 BRTMW,B&R Technology Merger Corp. - Warrants,Security description
+BRW,Saba Capital Income & Opportunities Fund SBI,Security description
 BSAAR,BEST SPAC I Acquisition Corp. - Rights,Ticker suffix
 BSAAU,BEST SPAC I Acquisition Corp. - Unit,Ticker suffix
 BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit",Ticker suffix
-BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",Ticker suffix
 BSRT,BSR Real Estate Investment Trust Units,Ticker suffix
+BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,Security description
+BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,Security description
 BTBDW,"BT Brands, Inc. - Warrant",Security description
+BTO,John Hancock Financial Opportunities Fund Common Stock,Security description
 BTSGU,"BrightSpring Health Services, Inc. - Tangible Equity Unit",Ticker suffix
+BTT,BlackRock Municipal 2030 Target Term Trust,Security description
+BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,Security description
+BTZ,BlackRock Credit Allocation Income Trust,Security description
+BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust",Security description
 BULLW,Webull Corporation - Warrants,Security description
 BUSEP,"First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",Security description
 BW$A,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",Security description
 BWBBP,"Bridgewater Bancshares, Inc. - Depositary Shares, Each Representing a 1/100th Interest in a Share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series A",Security description
+BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,Security description
 BWIV.U,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Security description
 BWIV.W,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,Security description
 BZAIW,"Blaize Holdings, Inc. - Warrant",Security description
 BZFDW,"BuzzFeed, Inc. - Warrant",Security description
+C$N,Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS),Security description
 C$R,"Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II",Security description
 CAIIU,Collective Acquisition Corp. II - Units,Ticker suffix
 CAIIW,Collective Acquisition Corp. II - Warrants,Security description
-CAPL,CrossAmerica Partners LP Common Units representing limited partner interests,Ticker suffix
 CAPNR,Cayson Acquisition Corp - Right,Ticker suffix
 CAPNU,Cayson Acquisition Corp - Units,Ticker suffix
 CAQUU,Cambridge Acquisition Corp. - Unit,Ticker suffix
@@ -266,6 +330,7 @@ CCCTW,Columbus Circle Capital Corp III - Warrants,Security description
 CCD,Calamos Dynamic Convertible & Income Fund - Closed End Fund,Security description
 CCGWW,Cheche Group Inc. - Warrant,Security description
 CCID,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028,Security description
+CCIF,Carlyle Credit Income Fund Shares of Beneficial Interest,Security description
 CCIIU,Cohen Circle Acquisition Corp. II - Unit,Ticker suffix
 CCIIW,Cohen Circle Acquisition Corp. II - Warrant,Security description
 CCNEP,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",Security description
@@ -276,12 +341,15 @@ CDR$B,"Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred S
 CDR$C,"Cedar Realty Trust, Inc. 6.50% Series C Cumulative Redeemable Preferred Stock",Security description
 CDROW,"Codere Online Luxembourg, S.A. - Warrants",Security description
 CDTTW,CDT Equity Inc. - Warrant,Security description
+CDZIP,"Cadiz, Inc. - Depositary Shares",Security description
 CELG.R,Bristol-Myers Squibb Company Celegne Contingent Value Rights,Security description
+CEV,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,Security description
 CFG$E,"Citizens Financial Group, Inc. Depositary Shares Each Representing 1/40th Interest in a Share of 5.000% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series E",Security description
 CFG$H,"Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series H",Security description
 CFG$I,"Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",Security description
 CFR$B,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",Security description
 CFTR$A,"Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock",Security description
+CGABL,The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061,Security description
 CGBD,"Carlyle Secured Lending, Inc. - Closed End Fund",Security description
 CGCFU,Cartesian Growth Corporation IV - Units,Ticker suffix
 CGCFW,Cartesian Growth Corporation IV - Warrants,Security description
@@ -298,26 +366,39 @@ CHPGR,ChampionsGate Acquisition Corporation - Rights,Ticker suffix
 CHPGU,ChampionsGate Acquisition Corporation - Unit,Ticker suffix
 CHSCL,"CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4",Security description
 CHSCM,"CHS Inc - Class B Reset Rate Cumulative Redeemable Preferred Stock, Series 3",Security description
+CHSCN,CHS Inc - Preferred Class B Series 2 Reset Rate,Security description
 CHSCO,CHS Inc - Class B Cumulative Redeemable Preferred Stock,Security description
 CHSCP,CHS Inc - 8%  Cumulative Redeemable Preferred Stock,Security description
 CHTRP,"Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",Security description
 CHW,Calamos Global Dynamic Income Fund - Closed End Fund,Security description
 CHY,Calamos Convertible and High Income Fund - Closed End Fund,Security description
 CIB,Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares,Security description
+CICB,CION Investment Corporation 7.50% Notes due 2029,Security description
+CICC,CION Investment Corporation 7.50% Notes due 2031,Security description
+CIK,"UBS Asset Management Income Fund, Inc. Common Stock",Security description
 CIM$A,Chimera Investment Corporation 8.00% Series A Cumulative Redeemable Preferred Stock,Security description
 CIM$B,Chimera Investment Corporation 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
 CIM$C,Chimera Investment Corporation 7.75% Series C Fixed-to-Floating Rate  Cumulative Redeemable  Preferred Stock,Security description
 CIM$D,Chimera Investment Corporation 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
+CIMN,Chimera Investment Corporation 9.000% Senior Notes due 2029,Security description
+CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,Security description
+CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,Security description
 CINGW,Cingulate Inc. - Warrants,Security description
 CLBR.U,"Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant",Security description
 CLBR.W,"Colombier Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Security description
 CLDT$A,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,Security description
+CLM,"Cornerstone Strategic Investment Fund, Inc. Common Shares",Security description
 CLSKW,"CleanSpark, Inc. - Warrant",Security description
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),Security description
+CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands),Ticker suffix
 CMRE$D,Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock,Security description
 CMS$B,CMS Energy Corporation Preferred Stock,Security description
 CMS$C,"CMS Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock, Series C",Security description
+CMSA,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,Security description
+CMSC,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,Security description
+CMSD,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,Security description
 CNCKW,Coincheck Group N.V. - Warrants,Security description
+CNO$A,"CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060",Security description
 CNOBP,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",Security description
 COCHW,"Envoy Medical, Inc. - Warrant",Security description
 CODI$A,Compass Diversified Holdings 7.250% Series A Preferred Shares representing beneficial interest in Compass Diversified Holdings,Security description
@@ -335,7 +416,6 @@ COPR.W,Idaho Copper Corporation Common Stock Purchase Warrant,Security descripti
 CORZW,"Core Scientific, Inc. - Tranche 1 Warrants",Security description
 CORZZ,"Core Scientific, Inc. - Tranche 2 Warrants",Security description
 CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,Security description
-CQP,"Cheniere Energy Partners, LP Common Units",Ticker suffix
 CRACR,Crown Reserve Acquisition Corp. I - Rights,Ticker suffix
 CRACU,Crown Reserve Acquisition Corp. I - Unit,Ticker suffix
 CRACW,Crown Reserve Acquisition Corp. I - Warrant,Security description
@@ -343,6 +423,7 @@ CRANR,Crane Harbor Acquisition Corp. II - Rights,Ticker suffix
 CRANU,Crane Harbor Acquisition Corp. II - Units,Ticker suffix
 CRAQR,Cal Redwood Acquisition Corp. - Right,Ticker suffix
 CRAQU,Cal Redwood Acquisition Corp. - Units,Ticker suffix
+CRBD,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,Security description
 CRGOW,Freightos Limited - Warrants,Security description
 CRMLW,Critical Metals Corp. - Warrants,Security description
 CSHRW,CoinShares PLC - Warrants,Security description
@@ -351,7 +432,10 @@ CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series",Security description
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series",Security description
 CTAAR,ClearThink 1 Acquisition Corp. - Rights,Ticker suffix
 CTAAU,ClearThink 1 Acquisition Corp. - Units,Ticker suffix
+CTGG,Qwest Corporation - 6.500% Notes due 2051,Security description
+CTHH,Qwest Corporation - 6.750% Notes due 2052,Security description
 CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",Security description
+CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034",Security description
 CUBWU,Lionheart Holdings - Unit,Ticker suffix
 CUBWW,Lionheart Holdings - Warrant,Security description
 CXAIW,CXApp Inc. - Warrant,Security description
@@ -364,27 +448,30 @@ DAICW,"CID HoldCo, Inc. - Warrants",Security description
 DAVEW,Dave Inc.  - Warrants,Security description
 DBCAU,D. Boral Acquisition I Corp. - Unit,Ticker suffix
 DBCAW,D. Boral Acquisition I Corp. - Warrants,Security description
+DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",Security description
 DCOM$,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A",Security description
 DFDVW,DeFi Development Corp. - Warrant,Security description
 DFLIW,Dragonfly Energy Holdings Corp - Warrant,Security description
 DFNSW,T3 Defense Inc. - Warrants,Security description
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Security description
 DFSCW,DEFSEC Technologies Inc. - warrant,Security description
 DGAC.R,"Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one-fourth (1/4) of one Class A ordinary share",Ticker suffix
 DGAC.U,"Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",Security description
+DHCNI,Diversified Healthcare Trust  - 5.625% Senior Notes due 2042,Security description
+DHCNL,Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046,Security description
 DJTWW,Trump Media & Technology Group Corp. - Warrants,Security description
-DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",Ticker suffix
-DLNG,Dynagas LNG Partners LP Common Units,Ticker suffix
 DLNG$A,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,Ticker suffix
 DLR$J,"Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock",Security description
 DLR$K,"Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share",Security description
 DLR$L,"Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock",Security description
+DLY,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,Security description
 DMAAR,Drugs Made In America Acquisition Corp. - Rights,Ticker suffix
 DMAAU,Drugs Made In America Acquisition Corp. - Units,Ticker suffix
 DMIIR,Drugs Made In America Acquisition II Corp. - Right,Ticker suffix
 DMIIU,Drugs Made In America Acquisition II Corp. - Unit,Ticker suffix
-DMLP,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Ticker suffix
 DNMXU,Dynamix Corporation III - Unit,Ticker suffix
 DNMXW,Dynamix Corporation III - Warrants,Security description
+DNP,"DNP Select Income Fund, Inc. Common Stock",Security description
 DRDBU,Roman DBDR Acquisition Corp. II - Unit,Ticker suffix
 DRDBW,Roman DBDR Acquisition Corp. II - Warrants,Security description
 DRTSW,Alpha Tau Medical Ltd. - Warrant,Security description
@@ -393,9 +480,14 @@ DSACW,Daedalus Special Acquisition Corp. - Warrant,Security description
 DSX$B,Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands),Security description
 DSX.W,Diana Shipping inc. Warrants,Security description
 DSYWW,Big Tree Cloud Holdings Limited - Warrants,Security description
+DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,Security description
+DTG,DTE Energy Company 2021 Series E 4.375% Junior Subordinated Debentures,Security description
+DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,Security description
 DTSQR,DT Cloud Star Acquisition Corporation - Right,Ticker suffix
 DTSQU,DT Cloud Star Acquisition Corporation - Units,Ticker suffix
+DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,Security description
 DUK$A,"Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock",Security description
+DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,Security description
 DUKRW,DUKE Robotics Corp. - Warrant,Security description
 DUKU,Duke Energy Corporation Corporate Units,Ticker suffix
 DX$C,"Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Security description
@@ -403,48 +495,77 @@ DX$D,"Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Prefe
 DXR,Daxor Corporation - Closed End Fund,Security description
 DYORU,Insight Digital Partners II - Units,Ticker suffix
 DYORW,Insight Digital Partners II - Warrants,Security description
+EAD,Allspring Income Opportunities Fund Common Shares,Security description
+ECAT,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest,Security description
 ECC$D,Eagle Point Credit Company 6.75% Series D Preferred Stock,Security description
 ECCC,Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031,Security description
+ECCU,Eagle Point Credit Company 7.75% Notes due 2030,Security description
+ECCV,Eagle Point Credit Company 5.375% Notes due 2029,Security description
+ECF,Ellsworth Growth and Income Fund Ltd.,Security description
 ECF$A,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),Security description
 ECXWW,ECARX Holdings Inc. - Warrants,Security description
 EDBLW,Edible Garden AG Incorporated - Warrant,Security description
+EDF,Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,Security description
 EFC$B,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Security description
 EFC$C,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Security description
 EFC$D,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,Security description
 EFSCP,"Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",Security description
+EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,Security description
 EGHAR,EGH Acquisition Corp. - rights,Ticker suffix
 EGHAU,EGH Acquisition Corp. - Unit,Ticker suffix
+EHI,Western Asset Global High Income Fund Inc Common Stock,Security description
 EIIA,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,Security description
+ELLA,Ellington Credit Company 8.50% Notes due 2031,Security description
 EMISR,Emmis Acquisition Corp. - Rights,Ticker suffix
 ENGNW,enGene Therapeutics Inc. - Warrants,Security description
 ENRDW,Einride AB - Warrants,Security description
+EOI,Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest,Security description
 EONR.W,"EON Resources Inc. Warrants, each whole warrant exercisable for three quarters of one share of Class A Common Stock at an exercise price of $11.50 per whole share",Security description
+EOS,Eaton Vance Enhance Equity Income Fund II Common Stock,Security description
 EOSEW,"Eos Energy Enterprises, Inc. - Warrant",Security description
+EOT,Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST,Security description
 EP$C,El Paso Corporation Preferred Stock,Security description
 EPR$C,EPR Properties 5.75% Series C Cumulative Convertible Preferred Shares,Security description
+EPR$E,EPR Properties Series E Cumulative Conv Pfd Shs Ser E,Ticker suffix
 EPR$G,EPR Properties 5.750% Series G Cumulative Redeemable Preferred Shares,Security description
+EQH$A,"Equitable Holdings, Inc. Depositary Shares",Security description
 EQH$C,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series C",Security description
+ERC,Allspring Multi-Sector Income Fund Common Stock,Security description
+ERH,Allspring Utilities and High Income Fund Common Shares,Security description
 ERNAW,Ernexa Therapeutics Inc. - Warrants,Security description
-ESBA,"Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests",Ticker suffix
 ESLAW,"Estrella Immunopharma, Inc. - Warrant",Security description
-ET,Energy Transfer LP Common Units,Ticker suffix
 ET$I,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,Ticker suffix
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,Security description
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,Security description
 ETI$,"Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Value",Security description
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,Security description
 ETSS.U,"Energy Transition Special Opportunities Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Security description
 ETSS.W,"Energy Transition Special Opportunities Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Security description
+ETV,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,Security description
+ETY,"Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",Security description
 EUDAW,Euda Health Holdings Limited - Warrant,Security description
 EURKR,Eureka Acquisition Corp - Right,Ticker suffix
 EURKU,Eureka Acquisition Corp - Unit,Ticker suffix
 EVAC.U,"EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one-third of one redeemable warrant",Security description
 EVAC.W,"EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Security description
+EVF,Eaton Vance Senior Income Trust Common Stock,Security description
+EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,Security description
+EVN,Eaton Vance Municipal Income Trust Common Stock,Security description
 EVOXU,Evolution Global Acquisition Corp - Units,Ticker suffix
 EVOXW,Evolution Global Acquisition Corp - Warrants,Security description
+EVT,Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,Security description
+EVV,Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest,Security description
 EWAVR,East West Ave Acquisition Corp. - Rights,Ticker suffix
 EWAVU,East West Ave Acquisition Corp. - Units,Ticker suffix
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,Security description
 EXYNW,"Exyn Technologies, Inc. - Warrant",Security description
+F$B,"Ford Motor Company 6.20% Notes due June 1, 2059",Ticker suffix
+F$C,"Ford Motor Company 6% Notes due December 1, 2059",Ticker suffix
+F$D,"Ford Motor Company 6.500% Notes due August 15, 2062",Ticker suffix
 FACTU,FACT II Acquisition Corp. - Unit,Ticker suffix
 FACTW,FACT II Acquisition Corp. - Warrant,Security description
 FACWW,Factorial Energy Inc. - Warrant,Security description
+FAX,"abrdn Asia-Pacific Income Fund, Inc. Common Stock",Security description
 FBIOP,"Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Security description
 FBRT$E,"Franklin BSP Realty Trust, Inc. 7.50% Series E Cumulative Redeemable Preferred Stock",Security description
 FBYDP,"Falcon's Beyond Global, Inc. - 11% Series B Cumulative Convertible Preferred Stock",Security description
@@ -459,18 +580,22 @@ FDMMW,Freedom Metals Acquisition Corp. - Warrants,Security description
 FDUS,Fidus Investment Corporation - Closed End Fund,Security description
 FERAR,Fifth Era Acquisition Corp I - Rights,Ticker suffix
 FERAU,Fifth Era Acquisition Corp I - Units,Ticker suffix
+FFA,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest,Security description
+FFC,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,Security description
 FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Security description
 FGCPP,FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock,Security description
 FGIIU,FG Imperii Acquisition Corp. - Units,Ticker suffix
 FGIIW,FG Imperii Acquisition Corp. - Warrants,Security description
 FGIWW,FGI Industries Ltd. - warrant,Security description
+FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",Security description
+FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065",Security description
 FHN$E,"First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E",Security description
 FHN$F,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",Security description
 FHN$H,"First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series H",Security description
 FIGXU,FIGX Capital Acquisition Corp. - Units,Ticker suffix
 FIGXW,FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.,Security description
-FISK,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests",Ticker suffix
 FITB$A,"Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",Security description
+FITB$I,Fifth Third Bancorp Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,Security description
 FITB$K,"Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",Security description
 FITB$M,"Fifth Third Bancorp Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",Security description
 FJDIR,ARC Group Securities Acquisition I - Rights,Ticker suffix
@@ -482,13 +607,19 @@ FLG$U,"Flagstar Bank, N.A. Bifurcated Option Note Unit SecuritiES",Ticker suffix
 FLYX.W,"flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",Security description
 FMACR,Future Money Acquisition Corporation - Rights,Ticker suffix
 FMACU,Future Money Acquisition Corporation - Units,Ticker suffix
+FMN,Federated Hermes Premier Municipal Income Fund,Security description
 FMSTW,Foremost Clean Energy Ltd. - Warrant,Security description
+FMY,First Trust Mortgage Income Fund Common Shares of Beneficial Interest,Security description
+FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock",Security description
 FOUR$A,"Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",Security description
 FOXXW,Foxx Development Holdings Inc. - Warrant,Security description
+FPF,First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest,Security description
 FRMEP,"First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A",Security description
+FRT$C,"Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share",Security description
 FSHPR,Flag Ship Acquisition Corp. - Right,Ticker suffix
 FSHPU,Flag Ship Acquisition Corp. - Unit,Ticker suffix
 FTAIM,FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares,Security description
+FTF,Franklin Limited Duration Income Trust Common Shares of Beneficial Interest,Security description
 FTHAU,Forefront Tech Holdings Acquisition Corp - Unit,Ticker suffix
 FTHAW,Forefront Tech Holdings Acquisition Corp - Warrant,Security description
 FTRA.U,"FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Security description
@@ -506,23 +637,33 @@ FWACW,Futurewave Acquisition Corporation - Warrants,Security description
 FXACU,FortuneX Acquisition Corporation - Units,Ticker suffix
 FXACW,FortuneX Acquisition Corporation - Warrant,Security description
 GAB$G,"Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock",Security description
+GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H",Security description
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",Security description
+GAING,Gladstone Investment Corporation - 7.125% Notes due 2031,Security description
+GAINI,Gladstone Investment Corporation - 7.875% Notes due 2030,Security description
+GAINZ,Gladstone Investment Corporation - 4.875% Notes due 2028,Security description
 GAM$B,"General American Investors Company, Inc. Cumulative Preferred Stock",Security description
 GBDC,"Golub Capital BDC, Inc. - Closed End Fund",Security description
 GCGRU,General Catalyst Global Resilience Merger Corp. - Units,Ticker suffix
 GCGRW,General Catalyst Global Resilience Merger Corp. - Warrants,Security description
 GCLWW,GCL Global Holdings Ltd - Warrants,Security description
 GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",Security description
+GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock",Security description
+GDV,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,Security description
 GDV$H,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,Security description
 GDV$K,The Gabelli Dividend & Income Trust 4.250% Series K Cumulative Preferred Shares,Security description
 GECC,Great Elm Capital Corp. - Closed End Fund,Security description
-GEL,"Genesis Energy, L.P. Common Units",Ticker suffix
+GECCG,Great Elm Capital Corp. - 7.75% Notes Due 2030,Security description
+GECCH,Great Elm Capital Corp. - 8.125% Notes Due 2029,Security description
+GECCI,Great Elm Capital Corp. - 8.50% NOTES DUE 2029,Security description
+GEGGL,"Great Elm Group, Inc.  - 7.25% Notes due 2027",Security description
 GENVR,Gen Digital Inc. - Contingent Value Rights,Security description
 GFUZW,General Fusion Group Ltd. - Warrant,Security description
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust",Security description
+GGN$B,"GAMCO Global Gold, Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference",Security description
 GGROW,Gogoro Inc. - Warrant,Security description
 GGT$E,Gabelli Multi-Media Trust Inc. (The) 5.125% Series E Cumulative Preferred Stock,Security description
 GGT$G,Gabelli Multi-Media Trust Inc. (The) 5.125% Series G Cumulative Preferred Shares,Security description
-GHI,Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests,Ticker suffix
 GHXIU,"Gores Holdings XI, Inc. - Units",Ticker suffix
 GHXIW,"Gores Holdings XI, Inc. - Warrant",Security description
 GIBOW,GIBO Holdings Limited - Warrants,Security description
@@ -530,21 +671,25 @@ GIWWR,GigCapital8 Corp. - Rights,Ticker suffix
 GIWWU,GigCapital8 Corp. - Units,Ticker suffix
 GIXXR,GigCapital9 Corp. - Rights,Ticker suffix
 GIXXU,GigCapital9 Corp. - Units,Ticker suffix
+GL$D,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,Security description
 GLAD,Gladstone Capital Corporation - Closed End Fund,Security description
 GLED.R,GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share,Security description
 GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",Security description
 GLNDW,Greenland Energy Company - Warrant,Security description
+GLO,Clough Global Opportunities Fund Common Stock,Security description
 GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Ticker suffix
 GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Ticker suffix
 GLOP$C,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Ticker suffix
-GLP,Global Partners LP Common Units representing Limited Partner Interests,Ticker suffix
 GLU$A,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,Security description
 GLU$B,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,Security description
+GLV,Clough Global Dividend and Income Fund Common Shares of beneficial interest,Security description
 GNL$A,"Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per share",Security description
 GNL$B,"Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock",Security description
 GNL$D,"Global Net Lease, Inc. 7.50% Series D Cumulative Redeemable Perpetual Preferred Stock",Security description
 GNL$E,"Global Net Lease, Inc. 7.375% Series E Cumulative Redeemable Perpetual Preferred Stock",Security description
+GNT,"GAMCO Natural Resources, Gold & Income Trust",Security description
 GNT$A,"GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)",Security description
+GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,Security description
 GOODN,Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable Preferred Stock,Security description
 GOODO,"Gladstone Commercial Corporation - 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",Security description
 GOOGM,Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock,Security description
@@ -553,16 +698,21 @@ GPACU,General Purpose Acquisition Corp. - Units,Ticker suffix
 GPACW,General Purpose Acquisition Corp. - Warrant,Security description
 GPATU,GP-Act III Acquisition Corp. - Units,Ticker suffix
 GPATW,GP-Act III Acquisition Corp. - Warrants,Security description
+GPJA,"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077",Security description
 GPMT$A,Granite Point Mortgage Trust Inc. 7.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
 GPUS$D,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",Security description
 GRABW,Grab Holdings Limited - Warrant,Security description
 GRBK$A,"Green Brick Partners, Inc. Depositary Shares (each representing a 1/1000th fractional interest in a share of 5.75% Series A Cumulative Perpetual Preferred Stock)",Security description
 GRMLW,Greenland Mines Ltd - Warrants,Security description
+GRN,iPath Series B Carbon Exchange-Traded Notes,Security description
 GROY.W,Gold Royalty Corp. Warrants,Security description
 GRRRW,Gorilla Technology Group Inc. - Warrant,Security description
 GS$A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series A",Security description
+GS$C,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C",Security description
+GS$D,"Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg",Security description
 GSHRU,Gesher Acquisition Corp. II - Units,Ticker suffix
 GSHRW,Gesher Acquisition Corp. II - Warrants,Security description
+GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",Ticker suffix
 GSRFR,GSR IV Acquisition Corp. - Rights,Ticker suffix
 GSRFU,GSR IV Acquisition Corp. - Units,Ticker suffix
 GSRVR,GSR V Acquisition Corp. - Rights,Ticker suffix
@@ -589,25 +739,35 @@ HCICR,Hennessy Capital Investment Corp. VIII - Share Rights,Ticker suffix
 HCICU,Hennessy Capital Investment Corp. VIII - Units,Ticker suffix
 HCMAU,HCM III Acquisition Corp. - Units,Ticker suffix
 HCMAW,HCM III Acquisition Corp. - Warrants,Security description
+HCXY,"Hercules Capital, Inc. 6.25% Notes due 2033",Security description
 HDRNW,"Hadron Energy, Inc. - Warrant",Security description
+HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,Security description
 HERZ,"Herzfeld Credit Income Fund, Inc.  - Closed End Fund",Security description
+HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,Security description
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,Security description
 HFRO$B,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares,Security description
 HIG$G,"The Hartford Insurance Group, Inc. Depositary Shares each representing a 1/1000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G",Security description
+HIX,Western Asset High Income Fund II Inc. Common Stock,Security description
 HL$B,Hecla Mining Company Preferred Stock,Security description
 HOLOW,MicroCloud Hologram Inc. - Warrant,Security description
 HOVNP,Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock,Security description
 HOVRW,New Horizon Aircraft Ltd. - Warrant,Security description
 HPAIW,Helport AI Limited - Warrants,Security description
 HPE$C,Hewlett Packard Enterprise Company 7.625% Series C Mandatory Convertible Preferred Stock,Security description
+HPF,John Hancock Pfd Income Fund II Pfd Income Fund II,Security description
+HPI,John Hancock Preferred Income Fund Common Shares of Beneficial Interest,Security description
 HPP$C,"Hudson Pacific Properties, Inc. 4.750% Series C Cumulative Redeemable Preferred Stock",Security description
+HPS,John Hancock Preferred Income Fund III Preferred Income Fund III,Security description
 HQWWW,Horizon Quantum Holdings Ltd. - Warrant,Security description
 HSCSW,HeartSciences Inc. - Warrant,Security description
+HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,Security description
+HTFC,Horizon Technology Finance Corporation 6.25% Notes due 2027,Security description
 HTZWW,"Hertz Global Holdings, Inc - Warrant",Security description
 HUBCW,Hub Cyber Security Ltd. - Warrant expiring 2/27/28,Security description
 HUBCZ,Hub Cyber Security Ltd. - Warrant,Security description
 HVMCU,Highview Merger Corp. - Units,Ticker suffix
 HVMCW,Highview Merger Corp. - Warrants,Security description
+HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Security description
 HYAC.U,"Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Security description
 IACOU,Idea Acquisition Corp. - Units,Ticker suffix
 IACOW,Idea Acquisition Corp. - Warrants,Security description
@@ -621,9 +781,11 @@ IDACU,Iron Dome Acquisition I Corp. - Units,Ticker suffix
 IDACW,Iron Dome Acquisition I Corp. - Warrant,Security description
 IEAGR,Infinite Eagle Acquisition Corp. - Rights,Ticker suffix
 IEAGU,Infinite Eagle Acquisition Corp. - Unit,Ticker suffix
-IEP,Icahn Enterprises L.P. - Depositary Units representing Limited Partner Interests,Ticker suffix
 IGACR,Invest Green Acquisition Corporation - Rights,Ticker suffix
 IGACU,Invest Green Acquisition Corporation - Units,Ticker suffix
+IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,Security description
+IIF,"Morgan Stanley India Investment Fund, Inc. Common Stock",Security description
+IIM,Invesco Value Municipal Income Trust Common Stock,Security description
 IIPR$A,"Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",Security description
 IIPR$B,"Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock",Security description
 ILLUU,Illumination Acquisition Corp I - Units,Ticker suffix
@@ -632,6 +794,7 @@ IMPPP,Imperial Petroleum Inc. - 8.75% Series A Cumulative Redeemable Perpetual P
 IMSRW,Terrestrial Energy Inc. - Warrant,Security description
 INACR,Indigo Acquisition Corp. - Right,Ticker suffix
 INACU,Indigo Acquisition Corp. - Unit,Ticker suffix
+INBKZ,First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029,Security description
 INFQ.W,"Infleqtion, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",Security description
 INN$E,"Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock",Security description
 INN$F,"Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share",Security description
@@ -643,11 +806,13 @@ IPVVU,"InterPrivate Investment Partners V, Inc. - Units",Ticker suffix
 IPVVW,"InterPrivate Investment Partners V, Inc. - Warrants",Security description
 IPXGU,Inection Point Acquisition Corp. VII  - Unit,Ticker suffix
 IPXGW,Inection Point Acquisition Corp. VII  - Warrant,Security description
+IQI,Invesco Quality Municipal Income Trust Common Stock,Security description
 IQMXW,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Security description
 IRAB.U,"Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one-half of one redeemable Warrant",Security description
 IRAB.W,"Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Security description
 IRHOR,Iron Horse Acquisitions II Corp. - Rights,Ticker suffix
 IRHOU,Iron Horse Acquisitions II Corp. - Units,Ticker suffix
+IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),Security description
 ISNRU,Snow Rothschild Acquisition Corp. - Units,Ticker suffix
 ISNRW,Snow Rothschild Acquisition Corp. - Warrants,Security description
 ITHAU,ITHAX Acquisition Corp III - Units,Ticker suffix
@@ -659,14 +824,22 @@ JACS.R,"Jackson Acquisition Company II Rights, each right to acquire one-tenth (
 JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",Security description
 JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one-twentieth (1/20) of one Class A ordinary share",Ticker suffix
 JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",Security description
+JFR,Nuveen Floating Rate Income Fund Common Stock,Security description
+JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Security description
+JLS,Nuveen Mortgage and Income Fund,Security description
+JMM,Nuveen Multi-Market Income Fund (MA),Security description
 JONER,Jones Ventures INTL Acquisition1 Corp - Rights,Ticker suffix
 JONEU,Jones Ventures INTL Acquisition1 Corp - Units,Ticker suffix
+JPC,Nuveen Preferred & Income Opportunities Fund,Security description
 JPM$C,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.00% Non-Cumulative  Preferred Stock, Series EE",Security description
 JPM$D,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th  interest in a share of 5.75% Non-Cumulative  Preferred Stock, Series DD",Security description
 JPM$J,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG",Security description
 JPM$K,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ",Security description
 JPM$L,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL",Security description
 JPM$M,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM",Security description
+JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,Security description
+JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,Security description
+JSM,"Navient LLC - 6% Senior Notes due December 15, 2043",Security description
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",Security description
 KBONU,Karbon Capital Partners Corp. - Units,Ticker suffix
 KBONW,Karbon Capital Partners Corp. - Warrant,Security description
@@ -688,9 +861,12 @@ KIDZW,KIDZ AI Inc. - Warrants,Security description
 KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",Security description
 KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",Security description
 KIM$N,"Kimco Realty Corporation Depositary Shares, each representing 1/1,000th interest in a share of 7.25% Class N Cumulative Convertible Perpetual Preferred Stock",Security description
+KIO,KKR Income Opportunities Fund Common Shares,Security description
 KITTW,"Nauticus Robotics, Inc. - Warrant",Security description
 KKR$D,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock,Security description
-KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,Ticker suffix
+KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,Security description
+KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,Security description
+KMPB,Kemper Corporation 5.875% Fixed-Rate Reset Junior Subordinated Debentures due 2062,Security description
 KOF,"Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)",Ticker suffix
 KOYNU,CSLM Digital Asset Acquisition Corp III - Units,Ticker suffix
 KOYNW,CSLM Digital Asset Acquisition Corp III - Warrants,Security description
@@ -699,9 +875,9 @@ KPET.W,"KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable
 KRAQU,KRAKacquisition Corp - Unit,Ticker suffix
 KRAQW,KRAKacquisition Corp - Warrants,Security description
 KREF$A,KKR Real Estate Finance Trust Inc. 6.50% Series A Cumulative Redeemable Preferred Stock,Security description
-KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Ticker suffix
 KRSP.U,"Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one-sixth of one redeemable warrant",Security description
 KRSP.W,"Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Security description
+KTF,DWS Municipal Income Trust,Security description
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Security description
 KTWOR,K2 Capital Acquisition Corporation - Rights,Ticker suffix
 KTWOU,K2 Capital Acquisition Corporation - Units,Ticker suffix
@@ -715,6 +891,7 @@ LATAW,Galata Acquisition Corp. II - Warrant,Security description
 LCCCR,Lakeshore Acquisition III Corp. - Rights,Ticker suffix
 LCCCU,Lakeshore Acquisition III Corp. - Unit,Ticker suffix
 LCFYW,Locafy Limited - Warrant,Security description
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",Security description
 LEDRU,Leader's Advantage Acquisition Corp. - Units,Ticker suffix
 LEGO.U,"Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",Security description
 LEGO.W,"Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",Security description
@@ -722,6 +899,7 @@ LFACU,Leapfrog Acquisition Corporation - Units,Ticker suffix
 LFACW,Leapfrog Acquisition Corporation - Warrants,Security description
 LFMDP,"LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock",Security description
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",Security description
+LGI,Lazard Global Total Return and Income Fund Common Stock,Security description
 LILAP,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Security description
 LIMNW,"Liminatus Pharma, Inc. - Warrants",Security description
 LKSPR,Lake Superior Acquisition Corp. - Rights,Ticker suffix
@@ -758,18 +936,40 @@ MCAHU,Mountain Crest Acquisition 6 Corp. - Units,Ticker suffix
 MCGAU,Yorkville Acquisition Corp. - Unit,Ticker suffix
 MCGAW,Yorkville Acquisition Corp. - Warrant,Security description
 MCHPP,Microchip Technology Incorporated - Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock,Security description
+MCN,XAI Madison Equity Premium Income Fund Common Shares,Security description
 MDAIW,"Spectral AI, Inc. - Warrants",Security description
 MDCXW,Medicus Pharma Ltd. - Warrant,Security description
+MER$K,"Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066",Ticker suffix
 MESHU,Meshflow Acquisition Corp. - Units,Ticker suffix
 MESHW,Meshflow Acquisition Corp. - Warrants,Security description
+MET$A,"MetLife, Inc. Preferred Series A Floating Rate",Ticker suffix
+MET$E,"MetLife, Inc. Depositary Shares ",Security description
 MET$F,"MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non-Cumulative Preferred Stock, Series F",Security description
 METAM,"Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",Security description
+METCI,"Ramaco Resources, Inc. - 8.250% Senior Notes due 2030",Security description
+METCZ,"Ramaco Resources, Inc. - 8.375% Senior Notes due 2029",Security description
 MEVOU,M Evo Global Acquisition Corp II - Units,Ticker suffix
 MEVOW,M Evo Global Acquisition Corp II - Warrants,Security description
+MFA$B,"MFA Financial, Inc. Preferred Series B",Ticker suffix
 MFA$C,"MFA Financial, Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Security description
+MFAN,"MFA Financial, Inc. 8.875% Senior Notes due 2029",Security description
+MFAO,"MFA Financial, Inc. 9.000% Senior Notes due 2029",Security description
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,Security description
+MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,Security description
+MFM,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,Security description
+MGF,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,Security description
+MGR,"Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059",Security description
+MGRB,"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060",Security description
+MGRD,"Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061",Security description
+MGRE,"Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064",Security description
+MHF,"Western Asset Municipal High Income Fund, Inc. Common Stock",Security description
+MHLA,"Maiden Holdings, Ltd. 6.625% Notes due 2046",Security description
+MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043",Security description
 MIACU,Meridian3 Industrials Acquisition Corp - Units,Ticker suffix
 MIACW,Meridian3 Industrials Acquisition Corp - Warrant,Security description
+MIN,Aberdeen Intermediate Income Fund Common Shares of Beneficial Interest,Security description
+MITN,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",Security description
+MITP,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",Security description
 MITT$A,"TPG Mortgage Investment Trust, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock",Security description
 MITT$B,"TPG Mortgage Investment Trust, Inc. 8.00% Series B Cumulative Redeemable Preferred Stock",Security description
 MITT$C,"TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",Security description
@@ -778,18 +978,22 @@ MKLYR,McKinley Acquisition Corporation - Rights,Ticker suffix
 MKLYU,McKinley Acquisition Corporation - Units,Ticker suffix
 MLAAU,Mountain Lake Acquisition Corp. II - Units,Ticker suffix
 MLAAW,Mountain Lake Acquisition Corp. II - Warrants,Security description
-MMLP,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,Ticker suffix
+MLCIL,Mount Logan Capital Inc. - 8.00% Notes Due 2031,Security description
+MMD,NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares,Security description
+MMT,Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest,Security description
 MMTXU,Miluna Acquisition Corp - Units,Ticker suffix
 MMTXW,Miluna Acquisition Corp - Warrant,Security description
-MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,Ticker suffix
+MNSBP,"MainStreet Bancshares, Inc. - Depositary Shares",Security description
 MNYWW,MoneyHero Limited - Warrants,Security description
 MOBBW,Mobilicom Limited - Warrants,Security description
 MOBXW,"Mobix Labs, Inc. - Warrants",Security description
-MPLX,MPLX LP Common Units Representing Limited Partner Interests,Ticker suffix
 MRCOU,Mercator Acquisition Corp. - Units,Ticker suffix
 MRCOW,Mercator Acquisition Corp. - Warrant,Security description
 MRNOW,Murano Global Investments PLC - Warrants,Security description
+MS$A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A,Security description
 MS$E,Morgan Stanley DEPOSITARY SHARES REP 1/1000TH SHARES FIXED/FLTG PREFERRED STOCK SERIES E,Security description
+MS$F,Morgan Stanley Dep Shs Rpstg 1/1000th Int Prd Ser F Fxd to Flag,Ticker suffix
+MS$I,Morgan Stanley Depository Shares Representing 1/1000th Preferred Series 1 Fixed to Floating Non (Cum),Ticker suffix
 MS$K,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of Fixed-to-Floating Rate Non-Cumulative Preferred Stock,  Series K",Security description
 MS$L,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 4.875% Non-Cumulative Preferred Stock, Series L",Security description
 MS$O,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 4.250% Non-Cumulative Preferred Stock, Series O",Security description
@@ -797,6 +1001,7 @@ MS$P,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share o
 MS$Q,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 6.625% Non-Cumulative Preferred Stock, Series Q",Security description
 MSAIW,"MultiSensor AI Holdings, Inc. - Warrants",Security description
 MSBIP,"Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",Security description
+MSIF,"MSC Income Fund, Inc. Common Stock",Security description
 MTAKU,Market Technology Acquisition Corp - Unit,Ticker suffix
 MTAKW,Market Technology Acquisition Corp - Warrants,Security description
 MTAL.U,"Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Security description
@@ -810,44 +1015,69 @@ MTNE.U,"CH4 Natural Solutions Corporation Units, each consisting of one Class A 
 MTNE.W,"CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Security description
 MUZEU,Muzero Acquisition Corp - Unit,Ticker suffix
 MUZEW,Muzero Acquisition Corp - Warrant,Security description
+MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",Security description
 MYXXR,Maywood Acquisition Corp. 2 - Rights,Ticker suffix
 MYXXU,Maywood Acquisition Corp. 2 - Units,Ticker suffix
 MYXXW,Maywood Acquisition Corp. 2 - Warrants,Security description
 MZYX.U,"MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",Security description
 MZYX.W,"MOZAYYX Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Security description
+NAC,Nuveen California Quality Municipal Income Fund,Security description
+NAD,Nuveen Quality Municipal Income Fund Common Stock,Security description
 NAMMW,Namib Minerals - Warrants,Security description
 NAMSW,NewAmsterdam Pharma Company N.V. - Warrant,Security description
+NAN,Nuveen New York Quality Municipal Income Fund Common Stock,Security description
 NANOW,Forge Nano Holdings Inc. - Warrants,Security description
+NAZ,Nuveen Arizona Quality Municipal Income Fund Common Stock,Security description
+NBB,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,Security description
 NBRGR,Newbridge Acquisition Limited - Rights,Ticker suffix
 NBRGU,Newbridge Acquisition Limited - Unit,Ticker suffix
 NCOOR,Southern Cross Acquisition I Corp. - Rights,Ticker suffix
 NCOOU,Southern Cross Acquisition I Corp. - Units,Ticker suffix
 NCOOW,Southern Cross Acquisition I Corp. - Warrants,Security description
 NCPLW,Netcapital Inc. - warrants,Security description
+NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,Security description
 NCV$A,Virtus Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares,Security description
+NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,Security description
 NCZ$A,Virtus Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares,Security description
+NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,Security description
 NE.A,Noble Corporation plc Tranche 2 Warrants,Security description
 NE.W,Noble Corporation plc Tranche 1 Warrants,Security description
+NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,Security description
+NEE$N,"NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079",Security description
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units",Ticker suffix
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units",Ticker suffix
+NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",Security description
 NEE$V,"NextEra Energy, Inc. 7.375% Corporate Units",Ticker suffix
+NEE$W,"NextEra Energy Capital Holdings Inc. Series Z Junior Subordinated Debentures due April 15, 2086",Security description
 NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,Ticker suffix
 NEOVW,NeoVolta Inc. - Warrant,Security description
+NEWTG,"NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2029",Security description
+NEWTH,"NewtekOne, Inc. - 8.625% Fixed Rate Senior Notes due 2029",Security description
+NEWTI,"NewtekOne, Inc. - 8.00% Fixed Rate Senior Notes due 2028",Security description
+NEWTO,"NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2031",Security description
 NEWTP,"NewtekOne, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.500% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Security description
 NEXRW,Nexera Technologies Ltd - Warrant,Security description
 NFEGP,New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock,Security description
-NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,Ticker suffix
 NGL$B,NGL ENERGY PARTNERS LP 9.00% Class B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partnership interests,Ticker suffix
 NGL$C,NGL ENERGY PARTNERS LP 9.625% Class C Fixed-to-Floating Rate Cumulative  Redeemable Perpetual Preferred Units representing  limited partner interests,Ticker suffix
 NHIVU,NewHold Investment Corp IV - Units,Ticker suffix
 NHIVW,NewHold Investment Corp IV - Warrants,Security description
+NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,Security description
 NIOBW,NioCorp Developments Ltd. - Warrant,Security description
 NIVFW,NewGenIvf Group Limited - Warrants,Security description
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,Security description
+NLY$F,Annaly Capital Management Inc 6.95% Series F,Ticker suffix
 NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
 NLY$J,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock,Security description
-NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,Ticker suffix
+NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,Security description
+NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Security description
+NMFCZ,New Mountain Finance Corporation - 8.250% Notes due 2028,Security description
+NMI,"Nuveen Municipal Income Fund, Inc. Common Stock",Security description
+NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,Security description
 NMPAR,NMP Acquisition Corp. - Right,Ticker suffix
 NMPAU,NMP Acquisition Corp. - Units,Ticker suffix
+NMS,Nuveen Minnesota Quality Municipal Income Fund ,Security description
+NMT,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,Security description
 NMZ.V,"Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",Ticker suffix
 NOEMR,CO2 Energy Transition Corp. - Right,Ticker suffix
 NOEMU,CO2 Energy Transition Corp. - Unit,Ticker suffix
@@ -855,13 +1085,19 @@ NOEMW,CO2 Energy Transition Corp. - Warrant,Security description
 NOVTU,Novanta Inc. - Tangible Equity Units,Ticker suffix
 NPACU,New Providence Acquisition Corp. III - Units,Ticker suffix
 NPACW,New Providence Acquisition Corp. III - Warrants,Security description
+NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,Security description
+NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,Security description
 NPWR.W,"NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",Security description
 NREF$A,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",Security description
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund ,Security description
+NRO,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Security description
 NRSNW,NeuroSense Therapeutics Ltd. - Warrant,Security description
+NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),Security description
 NSAIR,NorthStrive Acquisition Corp I. - Rights,Ticker suffix
 NSAIU,NorthStrive Acquisition Corp I. - Units,Ticker suffix
 NSAIW,NorthStrive Acquisition Corp I. - Warrants,Security description
 NSLR,Neostellar Capital Corp. - Closed End Fund,Security description
+NSLRL,Neostellar Capital Corp. - 6.00% Notes due 2026,Security description
 NSTR.W,"NorthStar Earth & Space Enterprises, Inc. Warrants",Security description
 NTRSO,"Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock",Security description
 NTWOU,Newbury Street II Acquisition Corp - Unit,Ticker suffix
@@ -869,12 +1105,15 @@ NTWOW,Newbury Street II Acquisition Corp - Warrant,Security description
 NUAIW,"New Era Energy & Digital, Inc. - Warrants",Security description
 NUCLW,Eagle Nuclear Energy Corp. - Warrants,Security description
 NVA.W,Nova Minerals Corp Warrants to Purchase Common Stock,Security description
+NVG,Nuveen AMT-Free Municipal Credit Income Fund ,Security description
 NWAX.U,"New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant",Security description
 NWAX.W,"New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock",Security description
 NWCLW,newcleo plc - Warrants,Security description
 NXATW,Nexus Advanced Technologies Inc. - Warrant,Security description
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),Security description
+NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,Security description
 NXGLW,"NexGel, Inc - Warrant",Security description
+NZF,Nuveen Municipal Credit Income Fund ,Security description
 OABIW,"OmniAb, Inc. - Warrant",Security description
 OACCU,Oaktree Acquisition Corp. III Life Sciences - Unit,Ticker suffix
 OACCW,Oaktree Acquisition Corp. III Life Sciences - Warrant,Security description
@@ -894,7 +1133,8 @@ OCLTW,OceanLight Acquisition Corporation - Warrants,Security description
 OCSAW,Oculis Holding AG - Warrants,Security description
 OCSL,Oaktree Specialty Lending Corporation - Closed End Fund,Security description
 OFS,OFS Capital Corporation - Closed End Fund,Security description
-OGCP,"Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests",Ticker suffix
+OFSSH,OFS Capital Corporation - 4.95% Notes due 2028,Security description
+OFSSO,OFS Capital Corporation - 7.50% Notes due 2028,Security description
 OGGWZ,Osisko Gold Group Inc. - Warrant,Security description
 OHACR,Oceanhawk Acquisition Corp. - Rights,Ticker suffix
 OHACU,Oceanhawk Acquisition Corp. - Units,Ticker suffix
@@ -910,6 +1150,7 @@ ONMDW,OneMedNet Corp - Warrant,Security description
 OPENL,"Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Security description
 OPENW,"Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Security description
 OPENZ,"Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Security description
+OPI,Office Properties Income Trust - Common shares of beneficial interest,Security description
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",Security description
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock",Security description
 OPP$C,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)",Security description
@@ -925,20 +1166,26 @@ OTGAU,OTG Acquisition Corp. I - Unit,Ticker suffix
 OTGAW,OTG Acquisition Corp. I - Warrants,Security description
 OXBRW,Oxbridge Re Holdings Limited - Warrant,Security description
 OXLC,Oxford Lane Capital Corp. - Closed End Fund,Security description
+OXLCG,Oxford Lane Capital Corp. - 7.95% Notes due 2032,Security description
+OXLCI,Oxford Lane Capital Corp. - 8.75% Notes due 2030,Security description
+OXLCL,Oxford Lane Capital Corp. - 6.75% Notes due 2031,Security description
 OXLCM,"Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031",Security description
 OXLCN,Oxford Lane Capital Corp. - 7.125% Series 2029 Term Preferred Stock,Security description
 OXLCO,"Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029",Security description
+OXLCZ,Oxford Lane Capital Corp. - 5.00% Notes due 2027,Security description
 OXSQ,Oxford Square Capital Corp. - Closed End Fund,Security description
+OXSQG,Oxford Square Capital Corp. - 5.50% Notes due 2028,Security description
+OXSQH,Oxford Square Capital Corp. - 7.75% Notes due 2030,Security description
 OXY.W,Occidental Petroleum Corporation Warrants ,Security description
 OYSER,Oyster Enterprises II Acquisition Corp - Rights,Ticker suffix
 OYSEU,Oyster Enterprises II Acquisition Corp - Units,Ticker suffix
 OZ,"Belpointe PREP, LLC Class A Units",Ticker suffix
 OZKAP,Bank OZK - 4.625% Series A Non-Cumulative Perpetual Preferred Stock,Security description
-PAA,"Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests",Ticker suffix
 PAACU,Proem Acquisition Corp I - Units,Ticker suffix
 PAACW,Proem Acquisition Corp I - Warrants,Security description
 PACHU,Pioneer Acquisition I Corp - Units,Ticker suffix
 PACHW,Pioneer Acquisition I Corp - Warrants,Security description
+PAI,Western Asset Investment Grade Income Fund Inc.,Security description
 PAII.U,"Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Security description
 PAII.W,"Pyrophyte Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Security description
 PALOU,Paloma Acquisition Corp I - Units,Ticker suffix
@@ -946,6 +1193,8 @@ PALOW,Paloma Acquisition Corp I - Warrants,Security description
 PARAW,"Parabolic Technologies, Inc. - Warrant",Security description
 PAXGR,Pine Tree Acquisition Corp. - Rights,Ticker suffix
 PAXGU,Pine Tree Acquisition Corp. - Units,Ticker suffix
+PAXS,PIMCO Access Income Fund Common Shares of Beneficial Interest,Security description
+PBI$B,Pitney Bowes Inc 6.70% Notes Due 2043,Security description
 PBMWW,Psyence Biomedical Ltd. - Warrant,Security description
 PBR.A,Petroleo Brasileiro S.A. Petrobras American Depositary Shares representing Preferred Shares,Security description
 PCAPU,ProCap Acquisition Corp - Unit,Ticker suffix
@@ -959,8 +1208,11 @@ PCG$G,Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,Security description
 PCG$H,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,Security description
 PCG$I,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,Security description
 PCG$X,PG&E Corp 6.000% Series A Mandatory Convertible Preferred Stock,Security description
+PCQ,PIMCO California Municipal Income Fund Common Stock,Security description
 PCTTU,"PureCycle Technologies, Inc. - Unit",Ticker suffix
 PCTTW,"PureCycle Technologies, Inc. - Warrant",Security description
+PDI,PIMCO Dynamic Income Fund Common Stock,Security description
+PDO,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,Security description
 PDPA,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,Security description
 PEB$E,Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interest,Security description
 PEB$F,Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest,Security description
@@ -970,12 +1222,21 @@ PECER,Peace Acquisition Corp - Right,Ticker suffix
 PECEU,Peace Acquisition Corp - Units,Ticker suffix
 PECEW,Peace Acquisition Corp - Warrant,Security description
 PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",Security description
+PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,Security description
 PFFL,"ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 2048",Security description
+PFH,"Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060",Security description
+PFLA,PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031,Security description
+PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,Security description
+PFXNZ,PhenixFIN Corporation  - 5.25% Notes due 2028,Security description
 PGACR,Pantages Capital Acquisition Corporation - Right,Ticker suffix
 PGACU,Pantages Capital Acquisition Corporation - Unit,Ticker suffix
+PGP,Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest,Security description
 PGYWW,Pagaya Technologies Ltd. - Warrants,Security description
+PGZ,Principal Real Estate Income Fund Common Shares of Beneficial Interest,Security description
+PHK,Pimco High Income Fund,Security description
 PHXE$,"Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",Security description
 PIIIW,P3 Health Partners Inc. - Warrant,Security description
+PIM,Franklin Master Intermediate Income Trust Shares of Beneficial Interest,Security description
 PINE$A,"Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",Security description
 PLCIR,Pelican Acquisition II Corporation - Right,Ticker suffix
 PLCIU,Pelican Acquisition II Corporation - Unit,Ticker suffix
@@ -983,16 +1244,22 @@ PLMKU,Plum Acquisition Corp. IV - Unit,Ticker suffix
 PLMKW,Plum Acquisition Corp. IV - Warrants,Security description
 PLUN.R,"Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",Ticker suffix
 PLUN.U,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",Security description
+PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Security description
+PMM,Franklin Managed Municipal Income Trust Shares of Beneficial Interest,Security description
 PMT$A,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,Security description
 PMT$B,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,Security description
 PMT$C,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest,Security description
 PMTRU,Perimeter Acquisition Corp. I - Unit,Ticker suffix
 PMTRW,Perimeter Acquisition Corp. I - Warrant,Security description
+PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,Security description
+PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Security description
+PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Security description
 PNAQ.R,"Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one Class A ordinary share",Ticker suffix
 PNAQ.U,"Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",Security description
 PNFP$A,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",Security description
 PNFP$B,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series B",Security description
 PNFP$C,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",Security description
+PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,Security description
 POLEU,Andretti Acquisition Corp. II - Unit,Ticker suffix
 POLEW,Andretti Acquisition Corp. II - Warrant,Security description
 PONOR,"Pono Capital Four, Inc. - Rights",Ticker suffix
@@ -1000,16 +1267,36 @@ PONOU,"Pono Capital Four, Inc. - Units",Ticker suffix
 PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Security description
 POWWP,Outdoor Holding Company - 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock,Security description
 PPLC,PPL Corporation Corporate Units,Ticker suffix
+PPT,Franklin Premier Income Trust Shares of Beneficial Interest,Security description
 PRENW,Prenetics Global Limited - Warrant,Security description
+PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062",Security description
+PRHIZ,"Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",Security description
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",Security description
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",Security description
+PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",Security description
 PRT,PermRock Royalty Trust Units of Beneficial Interest,Ticker suffix
+PSA$F,"Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of Beneficial Interest, Series F, par value $0.01 per share",Security description
+PSA$G,"Public Storage Depositary Shares, Each Representing 1/1,000 of a 5.05% Cumulative Preferred Share of Beneficial Interest, Series G",Security description
+PSA$H,"Public Storage Depositary Shares Each Representing 1/1,000 of a  5.60% Cumulative Preferred  Share of Beneficial Interest, Series H",Security description
+PSA$I,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.875% Cumulative Preferred Share of Beneficial Interest, Series I, par value $0.01 per share",Security description
+PSA$J,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.700% Cumulative Preferred Share of Beneficial Interest, Series J, par value $0.01 per share",Security description
+PSA$K,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.75% Cumulative Preferred Share of Beneficial Interest, Series K",Security description
+PSA$L,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.625% Cumulative Preferred Share of Beneficial Interest, Series L, par value $0.01 per share",Security description
+PSA$M,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of Beneficial Interest, Series M",Security description
+PSA$N,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of Beneficial Interest, Series N",Security description
+PSA$O,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% Cumulative Preferred Share of Beneficial Interest, Series O",Security description
+PSA$P,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.000% Cumulative Preferred Share of Bene cial Interest, Series P",Security description
+PSA$Q,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share",Security description
+PSA$R,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R",Security description
+PSA$S,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S",Security description
 PSA$T,"Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",Security description
 PSA$U,"Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",Security description
 PSEC,Prospect Capital Corporation - Closed End Fund,Security description
 PSEC$A,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock,Security description
+PSF,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock",Security description
 PSQH.W,"PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Security description
 PSQLW,Pasqal Holding SA - Warrant,Security description
+PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest,Security description
 PTACU,Patriot Acquisition Corp. - Units,Ticker suffix
 PTACW,Patriot Acquisition Corp. - Warrants,Security description
 PTORU,Praetorian Acquisition Corp. - Units,Ticker suffix
@@ -1027,6 +1314,7 @@ QSEAU,Quartzsea Acquisition Corporation - Units,Ticker suffix
 QUMSR,Quantumsphere Acquisition Corp. - Rights,Ticker suffix
 QUMSU,Quantumsphere Acquisition Corp. - Units,Ticker suffix
 QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",Security description
+RA,Brookfield Real Assets Income Fund Inc. Common Stock,Security description
 RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant),Security description
 RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Security description
 RAINW,"Rain Enhancement Technologies Holdco, Inc. - Warrants",Security description
@@ -1035,6 +1323,8 @@ RANGR,Range Capital Acquisition Corp. - Rights,Ticker suffix
 RANGU,Range Capital Acquisition Corp. - Units,Ticker suffix
 RC$C,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,Security description
 RC$E,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,Security description
+RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,Security description
+RCS,"PIMCO Strategic Income Fund, Inc.",Security description
 RDACR,Rising Dragon Acquisition Corp. - Rights,Ticker suffix
 RDACU,Rising Dragon Acquisition Corp. - Unit,Ticker suffix
 RDAGU,Republic Digital Acquisition Company - Unit,Ticker suffix
@@ -1052,40 +1342,62 @@ RFAIR,RF Acquisition Corp II - Right,Ticker suffix
 RFAIU,RF Acquisition Corp II - Unit,Ticker suffix
 RFAMR,RF Acquisition Corp III - Rights,Ticker suffix
 RFAMU,RF Acquisition Corp III - Units,Ticker suffix
+RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",Security description
+RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock",Security description
 RGTIW,"Rigetti Computing, Inc.  - Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Security description
 RIBBR,Ribbon Acquisition Corp - Rights,Ticker suffix
 RIBBU,Ribbon Acquisition Corp - Unit,Ticker suffix
+RILYG,"BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026",Security description
 RILYL,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",Security description
 RILYP,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",Security description
+RILYT,"BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028",Security description
+RILYZ,"BRC Group Holdings, Inc. - 5.25% Senior Notes due 2028",Security description
 RITM$A,Rithm Capital Corp. 7.50% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
 RITM$B,Rithm Capital Corp. 7.125% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
 RITM$C,Rithm Capital Corp. 6.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
 RITM$D,Rithm Capital Corp. 7.00% Fixed-Rate Reset Series D Cumulative Redeemable Preferred Stock,Security description
 RITM$E,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable Preferred Stock,Security description
 RITM$F,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Security description
+RIV,"RiverNorth Opportunities Fund, Inc. Common Stock",Security description
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",Security description
 RLJ$A,RLJ Lodging Trust $1.95 Series A Cumulative Convertible  Preferred Shares,Security description
+RLTY,Cohen & Steers Real Estate Opportunities and Income Fund Common Shares of Beneficial Interest,Security description
 RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share",Security description
 RMCOW,Royalty Management Holding Corporation - Warrant,Security description
+RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock",Security description
+RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",Security description
+RMMZ,"RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock",Security description
 RMSGW,Real Messenger Corporation - Warrants,Security description
 RNAQU,Rainier Acquisition Corporation - Units,Ticker suffix
 RNAQW,Rainier Acquisition Corporation - Warrants,Security description
 RNGTU,Range Capital Acquisition Corp II - Units,Ticker suffix
 RNGTW,Range Capital Acquisition Corp II - Warrants,Security description
+RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares",Security description
 RNR$F,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share",Security description
 RNR$G,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares",Security description
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Security description
 RREVU,RRE Ventures Acquisition Corp. - Units,Ticker suffix
 RREVW,RRE Ventures Acquisition Corp. - Warrants,Security description
+RSF,RiverNorth Capital and Income Fund Common Stock,Security description
 RTACU,Renatus Tactical Acquisition Corp I - Unit,Ticker suffix
 RTACW,Renatus Tactical Acquisition Corp I - Warrant,Security description
 RUMBW,RUM Group Inc. - Warrant,Security description
 RVMDW,"Revolution Medicines, Inc. - Warrant",Security description
 RVSNW,Rail Vision Ltd. - Warrant,Security description
+RWAYI,Runway Growth Finance Corp. - 7.25% Notes due 2031,Security description
+RWAYL,Runway Growth Finance Corp. - 7.50% Notes due 2027,Security description
+RWAYM,Runway Growth Finance Corp. - 7.75% Notes Due 2031,Security description
 RWT$A,"Redwood Trust, Inc. 10.00% Series A Fixed-Rate Reset Cumulative Redeemable Preferred Stock",Security description
+RWTN,"Redwood Trust, Inc. 9.125% Senior Notes Due 2029",Security description
+RWTO,"Redwood Trust, Inc. 9.00% Senior Notes Due 2029",Security description
+RWTP,"Redwood Trust, Inc. 9.125% Senior Notes Due 2030",Security description
+RWTQ,"Redwood Trust, Inc. 9.500% Senior Notes Due 2030",Security description
+RWTS,"Redwood Trust, Inc. 9.75% Senior Notes Due 2031",Security description
+RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",Security description
 RZLVW,Rezolve AI PLC - Warrants,Security description
 SAAQU,Space Asset Acquisition Corp. - Units,Ticker suffix
 SAAQW,Space Asset Acquisition Corp. - Warrants,Security description
+SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Security description
 SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Security description
 SAC.W,"Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Security description
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Security description
@@ -1093,11 +1405,18 @@ SAGU.R,"Shreya Acquisition Group Rights, each entitling the holder to receive on
 SAGU.U,"Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",Security description
 SAGU.W,"Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share",Security description
 SAIHW,SAIHEAT Limited - Warrant,Security description
+SAJ,Saratoga Investment Corp 8.00% Notes due 2027,Security description
 SAMO.U,"Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",Security description
 SAMO.W,"Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Security description
 SATA,"Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",Security description
 SATLW,Satellogic Inc. - Warrant,Security description
 SATS,"Strive, Inc. - 15.00% Series A Perpetual SATS Preferred Stock",Security description
+SAV,Saratoga Investment Corp 7.50% Notes due 2031,Security description
+SAX,Saratoga Investment Corp 8.00% Notes due 2031,Security description
+SAY,Saratoga Investment Corp 8.125% Notes due 2027,Security description
+SAZ,Saratoga Investment Corp 8.50% Notes due 2028,Security description
+SB$C,"Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)",Ticker suffix
+SB$D,"Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)",Ticker suffix
 SBCWW,SBC Medical Group Holdings Incorporated - Warrants,Security description
 SBFMW,Sunshine Biopharma Inc. - Warrant,Security description
 SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",Security description
@@ -1106,6 +1425,15 @@ SCAGW,Scage Future - Warrants,Security description
 SCATR,Southern Cross Acquisition II Corp. - Rights,Ticker suffix
 SCATU,Southern Cross Acquisition II Corp. - Units,Ticker suffix
 SCATW,Southern Cross Acquisition II Corp. - Warrants,Security description
+SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Security description
+SCCE,Sachem Capital Corp. 6.00% Notes due 2027,Security description
+SCCF,Sachem Capital Corp. 7.125% Notes due 2027,Security description
+SCCG,Sachem Capital Corp. 8.00% Notes due 2027,Security description
+SCD,LMP Capital and Income Fund Inc. Common Stock,Security description
+SCE$G,SCE Trust II Trust Preferred Securities,Security description
+SCE$L,SCE TRUST VI,Ticker suffix
+SCE$M,SCE Trust VII 7.50% Trust Preference Securities,Ticker suffix
+SCE$N,SCE Trust VIII 6.95% Trust Preference Securities,Ticker suffix
 SCHW$D,"The Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% Non-Cumulative Perpetual Preferred Stock, Series D",Security description
 SCHW$J,"The Charles Schwab Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.450% Non-Cumulative Perpetual Preferred Stock, Series J",Security description
 SCIIR,SC II Acquisition Corp. - Rights,Ticker suffix
@@ -1117,11 +1445,13 @@ SCQCU,SPACCircle Acquisition Corp. - Units,Ticker suffix
 SDAWW,SunCar Technology Group Inc. - Warrant,Security description
 SDHIR,Siddhi Acquisition Corp - Right,Ticker suffix
 SDHIU,Siddhi Acquisition Corp - Unit,Ticker suffix
+SDHY,PGIM Short Duration High Yield Opportunities Fund Common Shares,Security description
 SEAL$A,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units,Ticker suffix
 SEAL$B,Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units,Ticker suffix
 SF$B,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B",Security description
 SF$C,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.125% Non Cumulative Preferred Stock, Series C",Security description
 SF$D,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 4.50% Non-Cumulative Preferred Stock, Series D",Security description
+SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,Security description
 SHFSW,"SHF Holdings, Inc. - Warrants",Security description
 SHMDW,SCHMID Group N.V. - Warrants,Security description
 SHO$H,"Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock",Security description
@@ -1135,6 +1465,7 @@ SKYAW,"SkyAI, Inc. - Warrant",Security description
 SKYD.W,Skydance Corporation Warrants to Purchase Class B Common Stock,Security description
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Security description
 SLDPW,"Solid Power, Inc. - Warrant",Security description
+SLG$I,SL Green Realty Corporation Preferred Series I,Ticker suffix
 SLMBP,"SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B",Security description
 SLND.W,"Southland Holdings, Inc. Warrants",Security description
 SLNHP,"Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock",Security description
@@ -1145,12 +1476,17 @@ SMXWW,SMX (Security Matters) Public Limited Company - Warrant,Security descripti
 SNUS$H,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",Security description
 SOCAU,Solarius Capital Acquisition Corp. - Units,Ticker suffix
 SOCAW,Solarius Capital Acquisition Corp. - Warrant,Security description
+SOJC,"Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077",Security description
+SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080",Security description
+SOJE,"Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",Security description
+SOJF,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",Security description
 SOMN,Southern Company (The) 2025 Series A Corporate Units,Ticker suffix
 SORNU,Soren Acquisition Corp. - Unit,Ticker suffix
 SORNW,Soren Acquisition Corp. - Warrant,Security description
 SOUL.R,"Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one-tenth (1/10) of one Class A Ordinary Share",Ticker suffix
 SOUL.U,"Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",Security description
 SOUNW,"SoundHound AI, Inc. - Warrant",Security description
+SPE,"Special Opportunities Fund, Inc Common Stock",Security description
 SPE$C,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, Series C",Security description
 SPEGR,Silver Pegasus Acquisition Corp - Rights,Ticker suffix
 SPEGU,Silver Pegasus Acquisition Corp - Unit,Ticker suffix
@@ -1160,7 +1496,9 @@ SPME,"Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 20
 SPWRW,SunPower Inc. - Warrant,Security description
 SQFTP,"Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share",Security description
 SQFTW,"Presidio Property Trust, Inc. - Series A Common Stock Purchase Warrants",Security description
+SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,Security description
 SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,Security description
+SRJN,Spire Inc. 6.375% Junior Subordinated Notes due 2086,Security description
 SSACR,SPACSphere Acquisition Corp. - Rights,Ticker suffix
 SSACU,SPACSphere Acquisition Corp. - Unit,Ticker suffix
 SSACW,SPACSphere Acquisition Corp. - Warrant,Security description
@@ -1172,10 +1510,9 @@ STRD,Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock,Security de
 STRF,Strategy Inc - 10.00% Series A Perpetual Strife Preferred Stock,Security description
 STRK,Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock,Security description
 STRRP,"Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",Security description
+STT$G,"State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative",Security description
 SUMAR,SUMA Acquisition Corporation - Rights,Ticker suffix
 SUMAU,SUMA Acquisition Corporation - Units,Ticker suffix
-SUN,Sunoco LP Common Units representing limited partner interests,Ticker suffix
-SUNC,"SunocoCorp LLC Common Units, representing limited liability company interests",Ticker suffix
 SVAQU,Silicon Valley Acquisition Corp. - Units,Ticker suffix
 SVAQW,Silicon Valley Acquisition Corp. - Warrants,Security description
 SVCCU,Stellar V Capital Corp. - Unit,Ticker suffix
@@ -1199,10 +1536,12 @@ TACOU,Berto Acquisition Corp. - unit,Ticker suffix
 TACOW,Berto Acquisition Corp. - Warrant,Security description
 TAVIR,Tavia Acquisition Corp. - Right,Ticker suffix
 TAVIU,Tavia Acquisition Corp. - Unit,Ticker suffix
+TBB,AT&T Inc. 5.350% Global Notes due 2066,Security description
 TBCVU,"Thunder Bridge Capital Partners V, Ltd. - Units",Ticker suffix
 TBCVW,"Thunder Bridge Capital Partners V, Ltd. - Warrants",Security description
 TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,Security description
 TCBI$B,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",Security description
+TCPA,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,Security description
 TCPC,BlackRock TCP Capital Corp. - Closed End Fund,Security description
 TDACU,Translational Development Acquisition Corp. - Units,Ticker suffix
 TDACW,Translational Development Acquisition Corp. - Warrants,Security description
@@ -1210,14 +1549,17 @@ TDS$U,"Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1
 TDS$V,"Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.000% Series VV Cumulative Redeemable Perpetual Preferred Stock",Security description
 TDWDR,Tailwind 2.0 Acquisition Corp. - Rights,Ticker suffix
 TDWDU,Tailwind 2.0 Acquisition Corp. - Unit,Ticker suffix
+TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock",Security description
 TEN$E,"Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",Security description
 TEN$F,"Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",Security description
+TFC$I,Truist Financial Corporation Depositary Shares,Security description
 TFC$O,"Truist Financial Corporation Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series O Non-Cumulative Perpetual Preferred Stock",Security description
 TFC$R,"Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of Series R Non-Cumulative Perpetual Preferred Stock",Security description
 TFIN$,"Triumph Financial, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Security description
 TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",Security description
 THEOR,BOA Acquisition Corp. II - Rights,Ticker suffix
 THEOU,BOA Acquisition Corp. II - Units,Ticker suffix
+THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,Security description
 TLACU,Three Lions Acquisition Corp. - Units,Ticker suffix
 TLACW,Three Lions Acquisition Corp. - Warrants,Security description
 TLNCU,Talon Capital Corp. - Units,Ticker suffix
@@ -1226,13 +1568,20 @@ TLSIW,"TriSalus Life Sciences, Inc. - Warrant",Security description
 TMSWW,Teamshares Inc. - Warrants,Security description
 TMTSU,Spartacus Acquisition Corp. II - Unit,Ticker suffix
 TMTSW,Spartacus Acquisition Corp. II - Warrants,Security description
+TMUSI,"T-Mobile US, Inc. - 5.500% Senior Notes due June 2070",Security description
+TMUSL,"T-Mobile US, Inc. - 6.250% Senior Notes due 2069",Security description
+TMUSZ,"T-Mobile US, Inc. - 5.500% Senior Notes due March 2070",Security description
 TNONW,"Tenon Medical, Inc. - Warrant",Security description
 TONT.U,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Security description
 TONT.W,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Security description
+TPGXL,TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064,Security description
+TPTS,"Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",Security description
 TRAD.R,"APEX Tech Acquisition Inc. Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",Ticker suffix
 TRAD.U,"APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",Security description
 TRGSR,TRG Latin America Acquisitions Corp. - Rights,Ticker suffix
 TRGSU,TRG Latin America Acquisitions Corp. - Units,Ticker suffix
+TRNI,Trinity Capital Inc. 7.875% Notes Due 2029,Security description
+TRNZ,Trinity Capital Inc. 7.875% Notes due 2029,Security description
 TRTN$A,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares,Security description
 TRTN$B,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,Security description
 TRTN$C,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,Security description
@@ -1241,6 +1590,7 @@ TRTN$E,Triton International Limited 5.75% Series E Cumulative Redeemable Perpetu
 TRTN$F,Triton International Limited 7.625% Series F Cumulative Redeemable Perpetual Preference Shares,Security description
 TRTN$G,Triton International Limited 7.500% Series G Cumulative Redeemable Perpetual Preference Shares,Security description
 TRTX$C,"TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock, $0.001 par value per share",Security description
+TSI,"TCW Strategic Income Fund, Inc. Common Stock",Security description
 TVACU,Texas Ventures Acquisition III Corp - Unit,Ticker suffix
 TVACW,Texas Ventures Acquisition III Corp - Warrants,Security description
 TVAIR,Thayer Ventures Acquisition Corporation II - Rights,Ticker suffix
@@ -1250,54 +1600,67 @@ TVIVU,Texas Ventures Acquisition IV Corp - Units,Ticker suffix
 TVIVW,Texas Ventures Acquisition IV Corp - Warrant,Security description
 TWLVR,Twelve Seas Investment Company III - Rights,Ticker suffix
 TWLVU,Twelve Seas Investment Company III - Units,Ticker suffix
-TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",Ticker suffix
 TY$,Tri Continental Corporation Preferred Stock,Security description
 UAC.U,"United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",Security description
 UAC.W,"United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Security description
-UAN,"CVR Partners, LP Common Units representing Limited Partner Interests",Ticker suffix
 UCFIW,CN Healthy Food Tech Group Corp. - Warrant,Security description
+UHT,Universal Health Realty Income Trust Common Stock,Security description
 UMBFO,"UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Security description
 UMH$D,"UMH Properties, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share",Security description
-USAC,"USA Compression Partners, LP Common Units Representing Limited Partner Interests",Ticker suffix
+UNMA,Unum Group 6.250% Junior Subordinated Notes due 2058,Security description
+USB$A,"U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock",Security description
+USB$H,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B,Security description
 USB$P,"U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cumulative Perpetual Preferred Stock",Security description
 USB$Q,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series L Non-Cumulative Perpetual Preferred Stock",Security description
 USB$R,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series M Non-Cumulative Perpetual Preferred Stock",Security description
 USB$S,"U.S. Bancorp Depositary Shares, each representing a 1/1,000th interest in a share of Series O Non-Cumulative Perpetual Preferred Stock",Security description
 USDEW,StablecoinX Inc. - Warrants,Security description
+UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,Security description
 UYSCR,UY Scuti Acquisition Corp. - Rights,Ticker suffix
 UYSCU,UY Scuti Acquisition Corp. - Units,Ticker suffix
+UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",Security description
+UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Security description
+UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Security description
 VAL.W,Valaris Limited Warrants,Security description
+VCV,Invesco California Value Municipal Income Trust Common Stock,Security description
 VECA.R,"Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",Ticker suffix
 VECA.U,"Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",Security description
 VEEAW,Veea Inc. - Warrant,Security description
 VFSWW,VinFast Auto Ltd. - Warrant,Security description
 VGASW,"Verde Clean Fuels, Inc. - Warrant",Security description
+VGI,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,Security description
 VHCPU,Vine Hill Capital Investment Corp. II - Units,Ticker suffix
 VHCPW,Vine Hill Capital Investment Corp. II - Warrants,Security description
 VII.U,"Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",Security description
 VII.W,Viking Acquisition Corp. II Warrants to purchase one Class A Ordinary Share,Security description
+VKI,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),Security description
 VLOSU,Velos Acquisition I Corp. - Units,Ticker suffix
 VLOSW,Velos Acquisition I Corp. - Warrant,Security description
+VLT,Invesco High Income Trust II,Security description
 VLYPN,"Valley National Bancorp - 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",Security description
 VLYPO,Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock,Security description
 VLYPP,Valley National Bancorp - 6.25% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock,Security description
 VNMEU,Vendome Acquisition Corporation I - Unit,Ticker suffix
 VNMEW,Vendome Acquisition Corporation I - Warrant,Security description
+VNO$L,Vornado Realty Trust Pfd Ser L %,Security description
 VNO$M,"Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share, no par value per share",Security description
 VNO$N,"Vornado Realty Trust 5.25% Series N Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share",Security description
 VNO$O,"Vornado Realty Trust 4.45% Series O Cumulative Redeemable Preferred Shares, Liquidation Preference $25.00 Per Share",Security description
 VOC,VOC Energy Trust Units of Beneficial Interest,Ticker suffix
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",Security description
+VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),Security description
 VRXAW,Veraxa Biotech AG - Warrants,Security description
 VSECU,VSE Corporation - Tangible Equity Units,Ticker suffix
+VVR,Invesco Senior Income Trust Common Stock (DE),Security description
 VWAVW,"VisionWave Holdings, Inc. - Warrant",Security description
+WAFDP,"WaFd, Inc. - Depositary Shares",Security description
 WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",Security description
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),Security description
+WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,Security description
 WENC.R,"West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",Ticker suffix
 WENC.U,"West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",Security description
 WENNU,Wen Acquisition Corp - Unit,Ticker suffix
 WENNW,Wen Acquisition Corp - Warrant,Security description
-WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests",Ticker suffix
 WFC$A,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA",Security description
 WFC$C,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC",Security description
 WFC$D,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in  a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD",Security description
@@ -1305,17 +1668,24 @@ WFC$L,"Wells Fargo & Company 7.50% Non-Cumulative Perpetual Convertible Class A 
 WFC$Y,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y",Security description
 WFC$Z,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z",Security description
 WHF,"WhiteHorse Finance, Inc. - Closed End Fund",Security description
+WHFCL,"WhiteHorse Finance, Inc. - 7.875% Notes due 2028",Security description
 WHLRD,"Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock",Security description
+WHLRL,"Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031",Security description
 WHLRP,"Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock",Security description
 WHR$A,"Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",Security description
+WIA,Western Asset Inflation-Linked Income Fund,Security description
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund,Security description
 WLCOU,Wilco 63 Corporation - Units,Ticker suffix
 WLCOW,Wilco 63 Corporation - Warrant,Security description
 WLDSW,Wearable Devices Ltd. - Warrant,Security description
 WLIIU,Willow Lane Acquisition Corp. II - Unit,Ticker suffix
 WLIIW,Willow Lane Acquisition Corp. II - Warrants,Security description
-WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,Ticker suffix
 WPAC.R,"White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one-fifth of one Class A ordinary share upon consummation of the initial business combination",Ticker suffix
 WPAC.U,"White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one-fifth (1/5) of one Class A ordinary share",Security description
+WRB$E,W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058,Security description
+WRB$F,W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059,Security description
+WRB$G,W.R. Berkley Corporation 4.25% Subordinated Debentures due 2060,Security description
+WRB$H,W.R. Berkley Corporation 4.125% Subordinated Debentures due 2061,Security description
 WSBCO,"WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Security description
 WSTNR,Westin Acquisition Corp - Right,Ticker suffix
 WSTNU,Westin Acquisition Corp - Units,Ticker suffix
@@ -1326,9 +1696,10 @@ WVVIP,"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",
 XBPEW,"XBP Global Holdings, Inc. - Warrant",Security description
 XCBEU,X3 Acquisition Corp. Ltd. - Unit,Ticker suffix
 XCBEW,X3 Acquisition Corp. Ltd. - Warrant,Security description
+XELLL,"Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",Security description
 XFLH.R,XFLH Capital Corporation Rights to receive one-seventh (1/7) of one Ordinary Share,Security description
 XFLH.U,"XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",Security description
-XIFR,"XPLR Infrastructure, LP Common Units representing limited partner interests",Ticker suffix
+XFLT,XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,Security description
 XIIIU,Churchill Capital Corp XIII - Units,Ticker suffix
 XIIIW,Churchill Capital Corp XIII - Warrants,Security description
 XLABW,Exascale Labs Holdings Inc. - Warrant,Security description

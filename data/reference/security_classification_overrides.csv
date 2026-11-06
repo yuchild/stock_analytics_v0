@@ -1,0 +1,8 @@
+symbol,security_type,is_eligible,eligibility_reason
+TYG,fund,false,Closed-end investment fund
+MS,operating_company,true,Verified publicly traded financial services company
+GS,operating_company,true,Verified publicly traded financial services company
+BLK,operating_company,true,Verified publicly traded asset management company
+SCHW,operating_company,true,Verified publicly traded brokerage and financial services company
+BX,operating_company,true,Verified publicly traded alternative asset management company
+KKR,operating_company,true,Verified publicly traded alternative asset management company
