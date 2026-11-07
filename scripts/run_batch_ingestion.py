@@ -6,6 +6,10 @@ from pathlib import Path
 from sqlalchemy import text
 from stock_analytics.db.connection import engine
 from stock_analytics.ingestion.yfinance_client import INTERVAL_PERIODS
+from stock_analytics.ingestion.batch_logger import (
+    start_batch,
+    finish_batch,
+)
 
 import time
 
@@ -38,7 +42,7 @@ def completed_backfill_exists(symbol: str, interval: str) -> bool:
                 "period": INTERVAL_PERIODS[interval],
             },
         ).scalar())
-    
+
 
 def run_batch(
         symbols: list[str],
@@ -47,6 +51,7 @@ def run_batch(
         delay: float = 0.0,
         skip_completed: bool = False,
         limit: int | None = None,
+        run_type: str = "manual",
     ) -> bool:
     succeeded = 0
     failed = []
@@ -54,38 +59,68 @@ def run_batch(
 
     total = len(symbols) * len(intervals)
 
-    for symbol in symbols:
-        if limit is not None and succeeded + len(failed) >= limit:
-            print(f"\nBatch limit reached: {limit} attempted jobs")
-            break
-        
-        for interval in intervals:
-            job_number = succeeded + len(failed) + skipped + 1
+    batch_id = start_batch(
+        pipeline_name="yfinance_ingestion",
+        run_type=run_type,
+        expected_jobs=total,
+    )
 
-            print(
-                f"\n[{job_number}/{total}] {symbol} {interval}",
-                flush=True,
-            )
+    print(f"\nStarted batch run: {batch_id}", flush=True)
 
-            if skip_completed and completed_backfill_exists(symbol, interval):
-                skipped += 1
-                print(f"SKIPPED: {symbol} {interval} (backfill completed)")
-                continue
-
-            try:
-                run_ingestion(symbol, interval, backfill=backfill)
-                succeeded += 1
-            except Exception as exc:
-                failed.append((symbol, interval, str(exc)))
-                print(f"BATCH ERROR: {symbol} {interval}: {exc}")
-            finally:
-                if delay > 0 and (
-                    succeeded + len(failed) + skipped < total
-                ):
-                    time.sleep(delay)
-            
+    try:
+        for symbol in symbols:
             if limit is not None and succeeded + len(failed) >= limit:
+                print(f"\nBatch limit reached: {limit} attempted jobs")
                 break
+
+            for interval in intervals:
+                job_number = succeeded + len(failed) + skipped + 1
+
+                print(
+                    f"\n[{job_number}/{total}] {symbol} {interval}",
+                    flush=True,
+                )
+
+                if skip_completed and completed_backfill_exists(symbol, interval):
+                    skipped += 1
+                    print(f"SKIPPED: {symbol} {interval} (backfill completed)")
+                    continue
+
+                try:
+                    run_ingestion(symbol, interval, backfill=backfill)
+                    succeeded += 1
+                except Exception as exc:
+                    failed.append((symbol, interval, str(exc)))
+                    print(f"BATCH ERROR: {symbol} {interval}: {exc}")
+                finally:
+                    if delay > 0 and (
+                        succeeded + len(failed) + skipped < total
+                    ):
+                        time.sleep(delay)
+
+                if limit is not None and succeeded + len(failed) >= limit:
+                    break
+
+    except BaseException as exc:
+        processed = succeeded + len(failed) + skipped
+
+        finish_batch(
+            batch_run_id=batch_id,
+            status="partial_failure" if processed > 0 else "failed",
+            successful_jobs=succeeded,
+            failed_jobs=len(failed),
+            skipped_jobs=skipped,
+            error_message=(
+                f"Unexpected interruption: "
+                f"{type(exc).__name__}: {exc}"
+            ),
+        )
+
+        print(
+            f"Batch run {batch_id} interrupted: {exc}",
+            flush=True,
+        )
+        raise
 
     processed = succeeded + len(failed) + skipped
     remaining = total - processed
@@ -100,7 +135,33 @@ def run_batch(
     for symbol, interval, error in failed:
         print(f"FAILED: {symbol} {interval}: {error}")
 
-    return len(failed) == 0
+    if remaining == 0 and not failed:
+        status = "success"
+    elif succeeded > 0 or skipped > 0:
+        status = "partial_failure"
+    else:
+        status = "failed"
+
+    error_details = [
+        f"{symbol} {interval}: {error}"
+        for symbol, interval, error in failed
+    ]
+
+    if remaining > 0:
+        error_details.append(f"{remaining} jobs not processed")
+
+    finish_batch(
+        batch_run_id=batch_id,
+        status=status,
+        successful_jobs=succeeded,
+        failed_jobs=len(failed),
+        skipped_jobs=skipped,
+        error_message="\n".join(error_details) or None,
+    )
+
+    print(f"Batch run {batch_id} finalized: {status}")
+
+    return status == "success"
 
 
 def load_top20_symbols() -> list[str]:
@@ -164,6 +225,12 @@ if __name__ == "__main__":
         default=None,
         help="Maximum number of unfinished ingestion jobs to run",
     )
+    parser.add_argument(
+        "--run-type",
+        choices=["manual", "scheduled"],
+        default="manual",
+        help="Identify whether the batch was launched manually or by cron",
+    )
 
     args = parser.parse_args()
 
@@ -195,6 +262,7 @@ if __name__ == "__main__":
         delay=args.delay,
         skip_completed=args.skip_completed,
         limit=args.limit,
+        run_type=args.run_type,
     )
 
     sys.exit(0 if success else 1)

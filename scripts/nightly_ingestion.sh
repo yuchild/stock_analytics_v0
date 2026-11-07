@@ -26,7 +26,8 @@ trap 'status=$?; echo "Nightly ingestion exit status: $status" >> "$LOG_FILE"' E
         "$PROJECT_DIR/scripts/run_batch_ingestion.py" \
         --top20 \
         --intervals 1d \
-        --delay 2
+        --delay 2 \
+        --run-type scheduled
 
     echo "Nightly ingestion finished: $(date -Is)"
 } > "$LOG_FILE" 2>&1
