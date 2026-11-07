@@ -177,6 +177,9 @@ def validate_stock_prices(df: pd.DataFrame) -> pd.DataFrame:
         return df
 
     original_count = len(df)
+    
+    # Preserve original rows for rejection diagnostics.
+    original_df = df.copy()
 
     required_columns = [
         "bar_timestamp",
@@ -213,6 +216,27 @@ def validate_stock_prices(df: pd.DataFrame) -> pd.DataFrame:
         subset=["symbol", "interval_code", "bar_timestamp"],
         keep="last",
     )
+
+    # Identify records rejected by validation.
+    rejected = original_df.loc[
+        ~original_df.index.isin(df.index)
+    ]
+
+    if not rejected.empty:
+        print("\nREJECTED RECORDS:")
+        print(
+            rejected[
+                [
+                    "symbol",
+                    "bar_timestamp",
+                    "open_price",
+                    "high_price",
+                    "low_price",
+                    "close_price",
+                    "volume",
+                ]
+            ].to_string(index=False)
+        )
 
     removed = original_count - len(df)
 
