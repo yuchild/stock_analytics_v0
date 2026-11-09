@@ -1,17 +1,17 @@
 
 import argparse
 import sys
+import time
 from pathlib import Path
 
 from sqlalchemy import text
+
 from stock_analytics.db.connection import engine
 from stock_analytics.ingestion.yfinance_client import INTERVAL_PERIODS
 from stock_analytics.ingestion.batch_logger import (
     start_batch,
     finish_batch,
 )
-
-import time
 
 # Allow importing the existing ingestion runner.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -20,6 +20,8 @@ from run_ingestion import run_ingestion
 
 
 def completed_backfill_exists(symbol: str, interval: str) -> bool:
+    """Check whether a successful backfill already exists."""
+
     query = text("""
         SELECT EXISTS (
             SELECT 1
@@ -34,25 +36,30 @@ def completed_backfill_exists(symbol: str, interval: str) -> bool:
     """)
 
     with engine.connect() as connection:
-        return bool(connection.execute(
-            query,
-            {
-                "symbol": symbol,
-                "interval": interval,
-                "period": INTERVAL_PERIODS[interval],
-            },
-        ).scalar())
+        return bool(
+            connection.execute(
+                query,
+                {
+                    "symbol": symbol,
+                    "interval": interval,
+                    "period": INTERVAL_PERIODS[interval],
+                },
+            ).scalar()
+        )
 
 
 def run_batch(
-        symbols: list[str],
-        intervals: list[str],
-        backfill: bool = False,
-        delay: float = 0.0,
-        skip_completed: bool = False,
-        limit: int | None = None,
-        run_type: str = "manual",
-    ) -> bool:
+    symbols: list[str],
+    intervals: list[str],
+    backfill: bool = False,
+    delay: float = 0.0,
+    skip_completed: bool = False,
+    limit: int | None = None,
+    run_type: str = "manual",
+    pipeline_name: str = "yfinance_ingestion",
+) -> bool:
+    """Run a tracked batch of stock-price ingestion jobs."""
+
     succeeded = 0
     failed = []
     skipped = 0
@@ -60,17 +67,23 @@ def run_batch(
     total = len(symbols) * len(intervals)
 
     batch_id = start_batch(
-        pipeline_name="yfinance_ingestion",
+        pipeline_name=pipeline_name,
         run_type=run_type,
         expected_jobs=total,
     )
 
-    print(f"\nStarted batch run: {batch_id}", flush=True)
+    print(
+        f"\nStarted batch run: {batch_id} "
+        f"(pipeline={pipeline_name}, type={run_type})",
+        flush=True,
+    )
 
     try:
         for symbol in symbols:
             if limit is not None and succeeded + len(failed) >= limit:
-                print(f"\nBatch limit reached: {limit} attempted jobs")
+                print(
+                    f"\nBatch limit reached: {limit} attempted jobs"
+                )
                 break
 
             for interval in intervals:
@@ -81,17 +94,30 @@ def run_batch(
                     flush=True,
                 )
 
-                if skip_completed and completed_backfill_exists(symbol, interval):
+                if skip_completed and completed_backfill_exists(
+                    symbol, interval
+                ):
                     skipped += 1
-                    print(f"SKIPPED: {symbol} {interval} (backfill completed)")
+                    print(
+                        f"SKIPPED: {symbol} {interval} "
+                        "(backfill completed)"
+                    )
                     continue
 
                 try:
-                    run_ingestion(symbol, interval, backfill=backfill)
+                    run_ingestion(
+                        symbol,
+                        interval,
+                        backfill=backfill,
+                    )
                     succeeded += 1
+
                 except Exception as exc:
                     failed.append((symbol, interval, str(exc)))
-                    print(f"BATCH ERROR: {symbol} {interval}: {exc}")
+                    print(
+                        f"BATCH ERROR: {symbol} {interval}: {exc}"
+                    )
+
                 finally:
                     if delay > 0 and (
                         succeeded + len(failed) + skipped < total
@@ -106,7 +132,9 @@ def run_batch(
 
         finish_batch(
             batch_run_id=batch_id,
-            status="partial_failure" if processed > 0 else "failed",
+            status=(
+                "partial_failure" if processed > 0 else "failed"
+            ),
             successful_jobs=succeeded,
             failed_jobs=len(failed),
             skipped_jobs=skipped,
@@ -126,6 +154,8 @@ def run_batch(
     remaining = total - processed
 
     print("\n========== BATCH SUMMARY ==========")
+    print(f"Pipeline: {pipeline_name}")
+    print(f"Run type: {run_type}")
     print(f"Total requested jobs: {total}")
     print(f"Successful: {succeeded}")
     print(f"Failed: {len(failed)}")
@@ -133,7 +163,9 @@ def run_batch(
     print(f"Not processed: {remaining}")
 
     for symbol, interval, error in failed:
-        print(f"FAILED: {symbol} {interval}: {error}")
+        print(
+            f"FAILED: {symbol} {interval}: {error}"
+        )
 
     if remaining == 0 and not failed:
         status = "success"
@@ -148,7 +180,9 @@ def run_batch(
     ]
 
     if remaining > 0:
-        error_details.append(f"{remaining} jobs not processed")
+        error_details.append(
+            f"{remaining} jobs not processed"
+        )
 
     finish_batch(
         batch_run_id=batch_id,
@@ -159,7 +193,10 @@ def run_batch(
         error_message="\n".join(error_details) or None,
     )
 
-    print(f"Batch run {batch_id} finalized: {status}")
+    print(
+        f"Batch run {batch_id} finalized: {status}",
+        flush=True,
+    )
 
     return status == "success"
 
@@ -174,57 +211,75 @@ def load_top20_symbols() -> list[str]:
     """)
 
     with engine.connect() as connection:
-        symbols = connection.execute(query).scalars().all()
+        symbols = connection.execute(
+            query
+        ).scalars().all()
 
     if len(symbols) != 220:
         raise ValueError(
             f"Expected 220 unique symbols, found {len(symbols)}"
         )
 
-    print(f"Loaded {len(symbols)} top-20 symbols from PostgreSQL")
+    print(
+        f"Loaded {len(symbols)} top-20 symbols from PostgreSQL"
+    )
 
     return symbols
 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Run tracked yfinance ingestion batches "
+            "for selected stocks and intervals."
+        )
+    )
 
     parser.add_argument(
         "--symbols",
         nargs="+",
+        help="Explicit stock symbols to ingest",
     )
+
     parser.add_argument(
         "--top20",
         action="store_true",
         help="Load all 220 top-sector stocks from PostgreSQL",
     )
+
     parser.add_argument(
         "--intervals",
         nargs="+",
         default=["1d"],
+        help="Price intervals to ingest",
     )
+
     parser.add_argument(
         "--backfill",
         action="store_true",
         help="Download full configured history for each symbol",
     )
+
     parser.add_argument(
         "--delay",
         type=float,
         default=0.0,
         help="Seconds to wait between ingestion jobs",
     )
+
     parser.add_argument(
         "--skip-completed",
         action="store_true",
         help="Skip previously successful backfills for the same period",
     )
+
     parser.add_argument(
         "--limit",
         type=int,
         default=None,
         help="Maximum number of unfinished ingestion jobs to run",
     )
+
     parser.add_argument(
         "--run-type",
         choices=["manual", "scheduled"],
@@ -232,37 +287,85 @@ if __name__ == "__main__":
         help="Identify whether the batch was launched manually or by cron",
     )
 
+    parser.add_argument(
+        "--pipeline-name",
+        default="yfinance_ingestion",
+        help=(
+            "Batch workload identifier, such as "
+            "yfinance_intraday, yfinance_weekly, "
+            "or yfinance_monthly"
+        ),
+    )
+
     args = parser.parse_args()
 
     if args.top20 and args.symbols:
-        parser.error("Use either --top20 or --symbols, not both")
+        parser.error(
+            "Use either --top20 or --symbols, not both"
+        )
 
     if not args.top20 and not args.symbols:
-        parser.error("Provide --symbols or --top20")
+        parser.error(
+            "Provide --symbols or --top20"
+        )
+
+    if args.skip_completed and not args.backfill:
+        parser.error(
+            "--skip-completed requires --backfill"
+        )
+
+    if args.limit is not None and args.limit < 1:
+        parser.error(
+            "--limit must be a positive integer"
+        )
+
+    if args.delay < 0:
+        parser.error(
+            "--delay cannot be negative"
+        )
+
+    if not args.pipeline_name.strip():
+        parser.error(
+            "--pipeline-name cannot be empty"
+        )
+
+    intervals = list(dict.fromkeys(args.intervals))
+
+    invalid_intervals = [
+        interval
+        for interval in intervals
+        if interval not in INTERVAL_PERIODS
+    ]
+
+    if invalid_intervals:
+        parser.error(
+            "Unsupported intervals: "
+            + ", ".join(invalid_intervals)
+        )
 
     if args.top20:
         symbols = load_top20_symbols()
     else:
-        symbols = list(dict.fromkeys(
-            symbol.upper() for symbol in args.symbols
-        ))
-
-    if args.skip_completed and not args.backfill:
-        parser.error("--skip-completed requires --backfill")
-
-    if args.limit is not None and args.limit < 1:
-        parser.error("--limit must be a positive integer")
-
-    intervals = list(dict.fromkeys(args.intervals))
+        symbols = list(
+            dict.fromkeys(
+                symbol.upper()
+                for symbol in args.symbols
+            )
+        )
 
     success = run_batch(
-        symbols,
-        intervals,
+        symbols=symbols,
+        intervals=intervals,
         backfill=args.backfill,
         delay=args.delay,
         skip_completed=args.skip_completed,
         limit=args.limit,
         run_type=args.run_type,
+        pipeline_name=args.pipeline_name,
     )
 
-    sys.exit(0 if success else 1)
+    return 0 if success else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

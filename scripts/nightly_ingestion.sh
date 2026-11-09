@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
@@ -7,10 +8,12 @@ LOG_DIR="$PROJECT_DIR/logs"
 mkdir -p "$LOG_DIR"
 cd "$PROJECT_DIR"
 
-exec 9>"$LOG_DIR/nightly_ingestion.lock"
+# Shared lock across scheduled ingestion workloads.
+# Wait up to two hours if another ingestion job is running.
+exec 9>"$LOG_DIR/stock_ingestion.lock"
 
-if ! flock -n 9; then
-    echo "Another ingestion process is already running."
+if ! flock -w 7200 9; then
+    echo "Could not acquire ingestion lock within 2 hours."
     exit 1
 fi
 
@@ -27,7 +30,8 @@ trap 'status=$?; echo "Nightly ingestion exit status: $status" >> "$LOG_FILE"' E
         --top20 \
         --intervals 1d \
         --delay 2 \
-        --run-type scheduled
+        --run-type scheduled \
+        --pipeline-name yfinance_ingestion
 
     echo "Nightly ingestion finished: $(date -Is)"
 } > "$LOG_FILE" 2>&1

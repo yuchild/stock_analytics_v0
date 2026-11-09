@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
@@ -7,11 +8,12 @@ LOG_DIR="$PROJECT_DIR/logs"
 mkdir -p "$LOG_DIR"
 cd "$PROJECT_DIR"
 
-# Share the ingestion lock to prevent overlapping jobs.
-exec 9>"$LOG_DIR/nightly_ingestion.lock"
+# Shared lock across ingestion and recovery workloads.
+exec 9>"$LOG_DIR/stock_ingestion.lock"
 
-if ! flock -n 9; then
-    echo "Another ingestion or recovery process is running."
+# Wait up to two hours for another workload to finish.
+if ! flock -w 7200 9; then
+    echo "Could not acquire ingestion lock within 2 hours."
     exit 1
 fi
 

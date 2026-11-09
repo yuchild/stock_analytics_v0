@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
@@ -16,11 +17,11 @@ trap 'status=$?; echo "Health check exit status: $status"' EXIT
 
 echo "Health check started: $(date -Is)"
 
-# Avoid checking the database while ingestion or recovery is running.
-exec 9>"$LOG_DIR/nightly_ingestion.lock"
+# Wait for any active ingestion or recovery workload.
+exec 9>"$LOG_DIR/stock_ingestion.lock"
 
-if ! flock -w 300 9; then
-    echo "CRITICAL: Could not acquire ingestion lock within 5 minutes."
+if ! flock -w 7200 9; then
+    echo "CRITICAL: Could not acquire ingestion lock within 2 hours."
     exit 2
 fi
 
