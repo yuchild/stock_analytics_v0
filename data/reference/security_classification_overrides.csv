@@ -9,3 +9,4 @@ KKR,operating_company,true,Verified publicly traded alternative asset management
 ACP,fund,false,Closed-end credit investment fund
 ACV,fund,false,Closed-end diversified income investment fund
 BGR,fund,false,Closed-end natural resources investment fund
+ROKU,operating_company,false,Delisted following acquisition by Fox Corporation in November 2026
